@@ -1,7 +1,9 @@
-import { Command } from 'commander';
-import { input } from '@inquirer/prompts';
 import fs from 'fs';
 import path from 'path';
+
+import { input } from '@inquirer/prompts';
+import { Command } from 'commander';
+
 import { createRequestToken, createAccessToken } from '../services/tmdb';
 
 export function loginCommand(program: Command): void {
@@ -26,16 +28,16 @@ export function loginCommand(program: Command): void {
                 await input({ message: 'Press Enter once you have approved...' });
 
                 console.log('Fetching user access token...');
-                const { access_token, account_id } = await createAccessToken(appToken, requestToken);
+                const { accessToken, accountId } = await createAccessToken(appToken, requestToken);
 
                 const envPath = path.resolve(process.cwd(), '.env');
                 let envContent = fs.existsSync(envPath) ? fs.readFileSync(envPath, 'utf-8') : '';
-                envContent = setEnvVar(envContent, 'TMDB_USER_ACCESS_TOKEN', access_token);
-                envContent = setEnvVar(envContent, 'TMDB_ACCOUNT_ID', account_id);
+                envContent = setEnvVar(envContent, 'TMDB_USER_ACCESS_TOKEN', accessToken);
+                envContent = setEnvVar(envContent, 'TMDB_ACCOUNT_ID', accountId);
                 fs.writeFileSync(envPath, envContent);
 
                 console.log(`\nSuccess! Credentials saved to .env`);
-                console.log(`  Account ID : ${account_id}`);
+                console.log(`  Account ID : ${accountId}`);
             } catch (err) {
                 console.error('Login failed:', err instanceof Error ? err.message : err);
                 process.exit(1);
