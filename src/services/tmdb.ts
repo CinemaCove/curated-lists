@@ -121,22 +121,37 @@ export async function searchMedia(userToken: string, query: string): Promise<Sea
     const client = new TmdbClientV3({
         accessToken: userToken,
     });
-    const data = await client.search.multi({ query });
 
-    return data.results
+    const first = await client.search.multi({ query, page: 1 });
+    const pagesToFetch = Math.min(first.totalPages, 3);
+
+    const rest =
+        pagesToFetch > 1
+            ? await Promise.all(
+                  Array.from({ length: pagesToFetch - 1 }, (_, i) =>
+                      client.search.multi({ query, page: i + 2 })
+                  )
+              )
+            : [];
+
+    const allResults = [first, ...rest].flatMap(d => d.results);
+
+    const toResult = (r: (typeof allResults)[number]): SearchResult => {
+        // The type only covers movie fields; TV results carry `name` and
+        // `firstAirDate` at runtime even though they're not in the type.
+        const raw = r as typeof r & { name?: string; firstAirDate?: string };
+        return {
+            tmdbId: r.id,
+            name: r.title || raw.name || '',
+            mediaType: (r.mediaType === MediaTypeV3.TvShow ? 'tv' : 'movie') as 'movie' | 'tv',
+            releaseDate: r.releaseDate || raw.firstAirDate || '',
+            voteAverage: r.voteAverage,
+            backdropPath: r.backdropPath || '',
+            overview: r.overview || '',
+        };
+    };
+
+    return allResults
         .filter(r => r.mediaType === MediaTypeV3.Movie || r.mediaType === MediaTypeV3.TvShow)
-        .map(r => {
-            // The type only covers movie fields; TV results carry `name` and
-            // `firstAirDate` at runtime even though they're not in the type.
-            const raw = r as typeof r & { name?: string; firstAirDate?: string };
-            return {
-                tmdbId: r.id,
-                name: r.title || raw.name || '',
-                mediaType: (r.mediaType === MediaTypeV3.TvShow ? 'tv' : 'movie') as 'movie' | 'tv',
-                releaseDate: r.releaseDate || raw.firstAirDate || '',
-                voteAverage: r.voteAverage,
-                backdropPath: r.backdropPath || '',
-                overview: r.overview || '',
-            };
-        });
+        .map(toResult);
 }

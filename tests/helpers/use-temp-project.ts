@@ -12,7 +12,9 @@ interface TempProjectResult {
 export async function useTempProject(name?: string): Promise<TempProjectResult> {
     await fs.ensureDir(TMP_DIR);
     const timestamp = new Date().toISOString().replace(/[-:T]/g, '').slice(0, 14);
-    const tmp = await fs.mkdtemp(path.join(TMP_DIR, `curated-lists-${timestamp}-${name ? name + '-' : ''}`));
+    const tmp = await fs.mkdtemp(
+        path.join(TMP_DIR, `curated-lists-${timestamp}-${name ? name + '-' : ''}`)
+    );
 
     const originalCwd = process.cwd();
     process.chdir(tmp);

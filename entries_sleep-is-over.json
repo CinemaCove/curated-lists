@@ -1,0 +1,338 @@
+[
+    {
+        "name": "The Exorcist",
+        "tmdbId": 9552,
+        "mediaType": "movie",
+        "backdropPath": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
+    },
+    {
+        "name": "Hereditary",
+        "tmdbId": 493922,
+        "mediaType": "movie",
+        "backdropPath": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg"
+    },
+    {
+        "name": "The Shining",
+        "tmdbId": 694,
+        "mediaType": "movie",
+        "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg"
+    },
+    {
+        "name": "The Ring",
+        "tmdbId": 565,
+        "mediaType": "movie",
+        "backdropPath": "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg"
+    },
+    {
+        "name": "Ring",
+        "tmdbId": 2671,
+        "mediaType": "movie",
+        "backdropPath": "/sGhbO6muh1Fnpa7nkxYCfvmgWCo.jpg"
+    },
+    {
+        "name": "The Ring Two",
+        "tmdbId": 10320,
+        "mediaType": "movie",
+        "backdropPath": "/teKPSU5AMM38oFHqPvGasViQzKQ.jpg"
+    },
+    {
+        "name": "Ring 2",
+        "tmdbId": 9669,
+        "mediaType": "movie",
+        "backdropPath": "/b2NBGSJrLO51ZQowhxUgboemEK4.jpg"
+    },
+    {
+        "name": "Dark Water",
+        "tmdbId": 12205,
+        "mediaType": "movie",
+        "backdropPath": "/z8csz0EOx2Hv59tAlVXJ4T6PUFR.jpg"
+    },
+    {
+        "name": "The Blair Witch Project",
+        "tmdbId": 2667,
+        "mediaType": "movie",
+        "backdropPath": "/ghPJw3XfhELokIf6V5QL0VpsXtK.jpg"
+    },
+    {
+        "name": "The Descent",
+        "tmdbId": 9392,
+        "mediaType": "movie",
+        "backdropPath": "/yERDHEaOezMqsRXhrulS9t6sAqC.jpg"
+    },
+    {
+        "name": "Sinister",
+        "tmdbId": 82507,
+        "mediaType": "movie",
+        "backdropPath": "/jovIEk4cAxWmA2dBcPrfhn3jzYN.jpg"
+    },
+    {
+        "name": "The Babadook",
+        "tmdbId": 242224,
+        "mediaType": "movie",
+        "backdropPath": "/t18ocAG0cpgC1AP288SseqmXqB5.jpg"
+    },
+    {
+        "name": "The Wailing",
+        "tmdbId": 293670,
+        "mediaType": "movie",
+        "backdropPath": "/9qxBNfI1QFbiZS62fsgaUd563t2.jpg"
+    },
+    {
+        "name": "It Follows",
+        "tmdbId": 270303,
+        "mediaType": "movie",
+        "backdropPath": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg"
+    },
+    {
+        "name": "Paranormal Activity",
+        "tmdbId": 23827,
+        "mediaType": "movie",
+        "backdropPath": "/wfCdJ0MD1hYJzlaHulolNw5pYtR.jpg"
+    },
+    {
+        "name": "The Conjuring",
+        "tmdbId": 138843,
+        "mediaType": "movie",
+        "backdropPath": "/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg"
+    },
+    {
+        "name": "The Conjuring 2",
+        "tmdbId": 259693,
+        "mediaType": "movie",
+        "backdropPath": "/mFCS5OuhPYT79KXu5jl7RqznPR1.jpg"
+    },
+    {
+        "name": "The Conjuring: Last Rites",
+        "tmdbId": 1038392,
+        "mediaType": "movie",
+        "backdropPath": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg"
+    },
+    {
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "tmdbId": 423108,
+        "mediaType": "movie",
+        "backdropPath": "/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg"
+    },
+    {
+        "name": "Insidious",
+        "tmdbId": 49018,
+        "mediaType": "movie",
+        "backdropPath": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg"
+    },
+    {
+        "name": "Insidious: Chapter 2",
+        "tmdbId": 91586,
+        "mediaType": "movie",
+        "backdropPath": "/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg"
+    },
+    {
+        "name": "Insidious: Chapter 3",
+        "tmdbId": 280092,
+        "mediaType": "movie",
+        "backdropPath": "/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg"
+    },
+    {
+        "name": "Insidious: The Red Door",
+        "tmdbId": 614479,
+        "mediaType": "movie",
+        "backdropPath": "/i2GVEvltEu3BXn5crBSxgKuTaca.jpg"
+    },
+    {
+        "name": "Insidious: The Bleeding World",
+        "tmdbId": 1291595,
+        "mediaType": "movie",
+        "backdropPath": "/yoBvGHXCSsgI93ozbcvYAg1LPiy.jpg"
+    },
+    {
+        "name": "Pulse",
+        "tmdbId": 27324,
+        "mediaType": "movie",
+        "backdropPath": "/7Zkp2AL7Nc4IWfZefgyvbEeSI7m.jpg"
+    },
+    {
+        "name": "Lake Mungo",
+        "tmdbId": 27374,
+        "mediaType": "movie",
+        "backdropPath": "/5eaS62YjA5Z7WPcf4quyZa5VpeO.jpg"
+    },
+    {
+        "name": "Inside",
+        "tmdbId": 13312,
+        "mediaType": "movie",
+        "backdropPath": "/iumvooyF68waPmQUJ5gfxAurEWi.jpg"
+    },
+    {
+        "name": "The Grudge",
+        "tmdbId": 1970,
+        "mediaType": "movie",
+        "backdropPath": "/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg"
+    },
+    {
+        "name": "Ju-on: The Grudge",
+        "tmdbId": 11838,
+        "mediaType": "movie",
+        "backdropPath": "/jNGVlbH2tnZmVqEIvuoxvV78vBY.jpg"
+    },
+    {
+        "name": "The Grudge 2",
+        "tmdbId": 1975,
+        "mediaType": "movie",
+        "backdropPath": "/3HTK3FtjK5GXIvPswaIMBMHeL3E.jpg"
+    },
+    {
+        "name": "Ju-on: The Grudge 2",
+        "tmdbId": 9666,
+        "mediaType": "movie",
+        "backdropPath": "/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg"
+    },
+    {
+        "name": "The Grudge 3",
+        "tmdbId": 1977,
+        "mediaType": "movie",
+        "backdropPath": "/e3fp9XMQ13b0OCKw9gR3h7ZYoaw.jpg"
+    },
+    {
+        "name": "Them",
+        "tmdbId": 10832,
+        "mediaType": "movie",
+        "backdropPath": "/xwSFvt9l7YilxS27wDmZuERIVrT.jpg"
+    },
+    {
+        "name": "The Innocents",
+        "tmdbId": 16372,
+        "mediaType": "movie",
+        "backdropPath": "/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg"
+    },
+    {
+        "name": "The Strangers",
+        "tmdbId": 10665,
+        "mediaType": "movie",
+        "backdropPath": "/3Eiui4wxrOWHAhDTQFkbRIVI4vX.jpg"
+    },
+    {
+        "name": "The Autopsy of Jane Doe",
+        "tmdbId": 397243,
+        "mediaType": "movie",
+        "backdropPath": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg"
+    },
+    {
+        "name": "The Lighthouse",
+        "tmdbId": 503919,
+        "mediaType": "movie",
+        "backdropPath": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg"
+    },
+    {
+        "name": "Possession",
+        "tmdbId": 21484,
+        "mediaType": "movie",
+        "backdropPath": "/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg"
+    },
+    {
+        "name": "The Vanishing",
+        "tmdbId": 8740,
+        "mediaType": "movie",
+        "backdropPath": "/gcXbxHjkUwLV4HrE2oJcbP7UGTA.jpg"
+    },
+    {
+        "name": "Cure",
+        "tmdbId": 36095,
+        "mediaType": "movie",
+        "backdropPath": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg"
+    },
+    {
+        "name": "Jacob's Ladder",
+        "tmdbId": 2291,
+        "mediaType": "movie",
+        "backdropPath": "/oubk1SEFtg3Q8eOncFvGQVa6OoP.jpg"
+    },
+    {
+        "name": "Session 9",
+        "tmdbId": 10972,
+        "mediaType": "movie",
+        "backdropPath": "/q00YpCIaO4ke4qstYnds9PtAz3t.jpg"
+    },
+    {
+        "name": "The Others",
+        "tmdbId": 1933,
+        "mediaType": "movie",
+        "backdropPath": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg"
+    },
+    {
+        "name": "The Blackcoat's Daughter",
+        "tmdbId": 334536,
+        "mediaType": "movie",
+        "backdropPath": "/sQMts3InFfqd9NNzwISwLoOn6KN.jpg"
+    },
+    {
+        "name": "The Night House",
+        "tmdbId": 547565,
+        "mediaType": "movie",
+        "backdropPath": "/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg"
+    },
+    {
+        "name": "The House of the Devil",
+        "tmdbId": 25983,
+        "mediaType": "movie",
+        "backdropPath": "/7ruEP348zJuAPfR02D7lsJM3JKI.jpg"
+    },
+    {
+        "name": "The Exorcism of Emily Rose",
+        "tmdbId": 8643,
+        "mediaType": "movie",
+        "backdropPath": "/eHT36hVNslbJXCY3SXgtzxPE3cl.jpg"
+    },
+    {
+        "name": "The Taking of Deborah Logan",
+        "tmdbId": 297608,
+        "mediaType": "movie",
+        "backdropPath": "/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg"
+    },
+    {
+        "name": "Hell House LLC",
+        "tmdbId": 359246,
+        "mediaType": "movie",
+        "backdropPath": "/u3ZOKKSonIVzNFlDwPd2kPypXy6.jpg"
+    },
+    {
+        "name": "The Medium",
+        "tmdbId": 745881,
+        "mediaType": "movie",
+        "backdropPath": "/iwCti1LGupsMjCzuhaccUA4OZfo.jpg"
+    },
+    {
+        "name": "Noroi: The Curse",
+        "tmdbId": 21506,
+        "mediaType": "movie",
+        "backdropPath": "/9f29yseBYdoBUp5sFPElpeHVlck.jpg"
+    },
+    {
+        "name": "The Devil's Backbone",
+        "tmdbId": 1433,
+        "mediaType": "movie",
+        "backdropPath": "/iUFylO8khUHGiSJanUZQfzZYyXI.jpg"
+    },
+    {
+        "name": "The Borderlands",
+        "tmdbId": 207774,
+        "mediaType": "movie",
+        "backdropPath": "/j6xyaXJO4oaE99QJGxggpeLbJ7j.jpg"
+    },
+    {
+        "name": "The Omen",
+        "tmdbId": 794,
+        "mediaType": "movie",
+        "backdropPath": "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg"
+    },
+    {
+        "name": "It Comes at Night",
+        "tmdbId": 418078,
+        "mediaType": "movie",
+        "backdropPath": "/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg"
+    },
+    {
+        "name": "The Changeling",
+        "tmdbId": 13550,
+        "mediaType": "movie",
+        "backdropPath": "/r4nx6BZY4PfLPrThytBtAuwN8uV.jpg"
+    }
+]

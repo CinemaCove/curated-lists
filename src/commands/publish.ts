@@ -59,6 +59,7 @@ export function publishCommand(program: Command): void {
 
             const imagePath = await input({
                 message: 'Image path:',
+                default: 'https://image.tmdb.org/t/p/w500/',
             });
 
             const record = {

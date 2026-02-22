@@ -1,0 +1,986 @@
+[
+    {
+        "name": "Airplane!",
+        "tmdbId": 813,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Airplane II: The Sequel",
+        "tmdbId": 2665,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Top Secret!",
+        "tmdbId": 8764,
+        "mediaType": "movie"
+    },
+    {
+        "name": "The Naked Gun",
+        "tmdbId": 1035259,
+        "mediaType": "movie"
+    },
+    {
+        "name": "The Naked Gun: From the Files of Police Squad!",
+        "tmdbId": 37136,
+        "mediaType": "movie"
+    },
+    {
+        "name": "The Naked Gun 2½: The Smell of Fear",
+        "tmdbId": 37137,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Naked Gun 33⅓: The Final Insult",
+        "tmdbId": 36593,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Police Squad!",
+        "tmdbId": 6024,
+        "mediaType": "tv"
+    },
+    {
+        "name": "Monty Python Flying Circus",
+        "tmdbId": 849,
+        "mediaType": "tv"
+    },
+    {
+        "name": "Monty Python and the Holy Grail",
+        "tmdbId": 762,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Life of Brian",
+        "tmdbId": 583,
+        "mediaType": "movie"
+    },
+    {
+        "name": "And Now for Something Completely Different",
+        "tmdbId": 9267,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Blazing Saddles",
+        "tmdbId": 11072,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Young Frankenstein",
+        "tmdbId": 3034,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Robin Hood: Men in Tights",
+        "tmdbId": 8005,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Dracula: Dead and Loving It",
+        "tmdbId": 12110,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Hot Shots!",
+        "tmdbId": 9595,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Hot Shots! Part Deux",
+        "tmdbId": 9255,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Loaded Weapon 1",
+        "tmdbId": 9644,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Spy Hard",
+        "tmdbId": 10535,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Spaceballs",
+        "tmdbId": 957,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Galaxy Quest",
+        "tmdbId": 926,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Austin Powers: International Man of Mystery",
+        "tmdbId": 816,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Austin Powers: The Spy Who Shagged Me",
+        "tmdbId": 817,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Austin Powers in Goldmember",
+        "tmdbId": 818,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie",
+        "tmdbId": 1273221,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie",
+        "tmdbId": 4242,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie 2",
+        "tmdbId": 4248,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie 3",
+        "tmdbId": 4256,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie 4",
+        "tmdbId": 4257,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Scary Movie 5",
+        "tmdbId": 4258,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Black Dynamite",
+        "tmdbId": 40064,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Tropic Thunder",
+        "tmdbId": 7446,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Walk Hard: The Dewey Cox Story",
+        "tmdbId": 6575,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Popstar: Never Stop Never Stopping",
+        "tmdbId": 341012,
+        "mediaType": "movie"
+    },
+    {
+        "name": "This Is Spinal Tap",
+        "tmdbId": 11031,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Spinal Tap 2",
+        "tmdbId": 975225,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Best in Show",
+        "tmdbId": 13785,
+        "mediaType": "movie"
+    },
+    {
+        "name": "A Mighty Wind",
+        "tmdbId": 13370,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Waiting for Guffman",
+        "tmdbId": 16448,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Heavy Trip",
+        "tmdbId": 460048,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Heavier Trip",
+        "tmdbId": 716808,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Torrente, el brazo tonto de la ley",
+        "tmdbId": 1283,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Torrente 2: Misión en Marbella",
+        "tmdbId": 1284,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Torrente 3: El protector",
+        "tmdbId": 1285,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Torrente 4: Lethal Crisis",
+        "tmdbId": 59117,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Torrente 5: Operación Eurovegas",
+        "tmdbId": 254869,
+        "mediaType": "movie"
+    },
+    {
+        "name": "OSS 117: Cairo, Nest of Spies",
+        "tmdbId": 15152,
+        "mediaType": "movie"
+    },
+    {
+        "name": "OSS 117: Lost in Rio",
+        "tmdbId": 15588,
+        "mediaType": "movie"
+    },
+    {
+        "name": "OSS 117: From Africa with Love",
+        "tmdbId": 604563,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Johnny English",
+        "tmdbId": 9486,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Johnny English Reborn",
+        "tmdbId": 58233,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Johnny English Strikes Again",
+        "tmdbId": 463272,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Undercover Brother",
+        "tmdbId": 12277,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Undercover Brother 2",
+        "tmdbId": 639832,
+        "mediaType": "movie"
+    },
+    {
+        "name": "Garth Marenghi's Darkplace",
+        "tmdbId": 205,
+        "mediaType": "tv"
+    },
+    {
+        "name": "Documentary Now!",
+        "tmdbId": 63593,
+        "mediaType": "tv"
+    },
+    {
+        "name": "A Touch of Cloth",
+        "tmdbId": 45482,
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 61698,
+        "name": "Galavant",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 60625,
+        "name": "Rick and Morty",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 1434,
+        "name": "Family Guy",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 81983,
+        "name": "Paradise PD",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 4336,
+        "name": "Drawn Together",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 44169,
+        "name": "Brickleberry",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 2190,
+        "name": "South Park",
+        "mediaType": "tv"
+    },
+    {
+        "tmdbId": 3989,
+        "name": "Team America: World Police",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 8675,
+        "name": "Orgazmo",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 9473,
+        "name": "South Park: Bigger, Longer & Uncut",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 13063,
+        "name": "Cannibal! The Musical",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 14013,
+        "name": "BASEketball",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 9835,
+        "name": "Jane Austen's Mafia!",
+        "mediaType": "movie"
+    },
+    {
+        "tmdbId": 11598,
+        "name": "The Kentucky Fried Movie",
+        "mediaType": "movie"
+    },
+    {
+        "name": "History of the World: Part I",
+        "tmdbId": 10156,
+        "mediaType": "movie",
+        "backdropPath": "/huW5dZywslw6muqmpDtMl6Ywl3m.jpg"
+    },
+    {
+        "name": "High Anxiety",
+        "tmdbId": 12535,
+        "mediaType": "movie",
+        "backdropPath": "/uZK6kGcO2RRteHoEgkpH4Mwa3lf.jpg"
+    },
+    {
+        "name": "Silent Movie",
+        "tmdbId": 10970,
+        "mediaType": "movie",
+        "backdropPath": "/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg"
+    },
+    {
+        "name": "UHF",
+        "tmdbId": 11959,
+        "mediaType": "movie",
+        "backdropPath": "/dAz8vPSI2daM4ZVrHSKnpNLUvDM.jpg"
+    },
+    {
+        "name": "Wrongfully Accused",
+        "tmdbId": 9417,
+        "mediaType": "movie",
+        "backdropPath": "/KOXNduDONfkv4zk3ZwNWbZuCOe.jpg"
+    },
+    {
+        "name": "Repossessed",
+        "tmdbId": 11510,
+        "mediaType": "movie",
+        "backdropPath": "/nu1fbF7KX03x87f5LBj16uQUNaN.jpg"
+    },
+    {
+        "name": "Kung Pow: Enter the Fist",
+        "tmdbId": 11891,
+        "mediaType": "movie",
+        "backdropPath": "/zvIhFx35lXEIO2OsVnrpReEH747.jpg"
+    },
+    {
+        "name": "Shaolin Soccer",
+        "tmdbId": 11770,
+        "mediaType": "movie",
+        "backdropPath": "/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg"
+    },
+    {
+        "name": "Spaceballs 2",
+        "tmdbId": 1306322,
+        "mediaType": "movie",
+        "backdropPath": "/6dOmk6RoedeTSelTj2b473xThZH.jpg"
+    },
+    {
+        "name": "Murder by Death",
+        "tmdbId": 6037,
+        "mediaType": "movie",
+        "backdropPath": "/frM7pCS0vWnT1Utb81YyErmohmg.jpg"
+    },
+    {
+        "name": "Fackham Hall",
+        "tmdbId": 1175174,
+        "mediaType": "movie",
+        "backdropPath": "/6PM1erqC2dCKjZSOA830DY2daWQ.jpg"
+    },
+    {
+        "name": "Kung Fu Hustle",
+        "tmdbId": 9470,
+        "mediaType": "movie",
+        "backdropPath": "/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg"
+    },
+    {
+        "name": "The God of Cookery",
+        "tmdbId": 41343,
+        "mediaType": "movie",
+        "backdropPath": "/zqDAbBZkAgQEKvBLih1GFitDWC8.jpg"
+    },
+    {
+        "name": "Sixty Million Dollar Man",
+        "tmdbId": 52324,
+        "mediaType": "movie",
+        "backdropPath": "/pkFlSypkCFKaFdiA9omyplXaIE6.jpg"
+    },
+    {
+        "name": "The Comebacks",
+        "tmdbId": 10759,
+        "mediaType": "movie",
+        "backdropPath": "/bRCGGwV2tZXroKIsmNBjiMaWQIw.jpg"
+    },
+    {
+        "name": "Monty Python's The Meaning of Life",
+        "tmdbId": 4543,
+        "mediaType": "movie",
+        "backdropPath": "/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg"
+    },
+    {
+        "name": "Shaun of the Dead",
+        "tmdbId": 747,
+        "mediaType": "movie",
+        "backdropPath": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg"
+    },
+    {
+        "name": "Spies Like Us",
+        "tmdbId": 9080,
+        "mediaType": "movie",
+        "backdropPath": "/9RJGN6CaCFOzs9H1yie2aPxLUoX.jpg"
+    },
+    {
+        "name": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+        "tmdbId": 10607,
+        "mediaType": "movie",
+        "backdropPath": "/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg"
+    },
+    {
+        "name": "Not Another Teen Movie",
+        "tmdbId": 11397,
+        "mediaType": "movie",
+        "backdropPath": "/lyf1jjoMD1Pe7KD6KKEqL4Owgeb.jpg"
+    },
+    {
+        "name": "Hot Fuzz",
+        "tmdbId": 4638,
+        "mediaType": "movie",
+        "backdropPath": "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg"
+    },
+    {
+        "name": "Mars Attacks!",
+        "tmdbId": 75,
+        "mediaType": "movie",
+        "backdropPath": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg"
+    },
+    {
+        "name": "¡Three Amigos!",
+        "tmdbId": 8388,
+        "mediaType": "movie",
+        "backdropPath": "/yMlk79kLF4GrqqP1OY0KccYB787.jpg"
+    },
+    {
+        "name": "A Million Ways to Die in the West",
+        "tmdbId": 188161,
+        "mediaType": "movie",
+        "backdropPath": "/zJRVO9G5c7tTfDRvfC13nUDqXdH.jpg"
+    },
+    {
+        "name": "Fatal Instinct",
+        "tmdbId": 26141,
+        "mediaType": "movie",
+        "backdropPath": "/mTJHunR5Fr62OsPcTrPrw3YWTAS.jpg"
+    },
+    {
+        "name": "Silence Of The Hams",
+        "tmdbId": 418158,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Mystery Men",
+        "tmdbId": 9824,
+        "mediaType": "movie",
+        "backdropPath": "/nrLnodkGvswfPiuKfbdPZN8P5eI.jpg"
+    },
+    {
+        "name": "Saturday the 14th",
+        "tmdbId": 20472,
+        "mediaType": "movie",
+        "backdropPath": "/6ZfxLHlCyTvFodA49BXIN6VzQHg.jpg"
+    },
+    {
+        "name": "I'm Gonna Git You Sucka",
+        "tmdbId": 17006,
+        "mediaType": "movie",
+        "backdropPath": "/z3tAdLDRWqoMgtl349aStimMtIs.jpg"
+    },
+    {
+        "name": "Support Your Local Sheriff!",
+        "tmdbId": 11574,
+        "mediaType": "movie",
+        "backdropPath": "/pcaKMLcrREPn8Frb7lvlp3FWG2b.jpg"
+    },
+    {
+        "name": "Support Your Local Gunfighter",
+        "tmdbId": 18287,
+        "mediaType": "movie",
+        "backdropPath": "/6467cVfKWRiXx7XCwm1KNlfy96U.jpg"
+    },
+    {
+        "name": "Duplicate Sholay",
+        "tmdbId": 606019,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Dead Men Don't Wear Plaid",
+        "tmdbId": 9442,
+        "mediaType": "movie",
+        "backdropPath": "/hhxrMW0WY30ulaCGMu5mVezktHQ.jpg"
+    },
+    {
+        "name": "Clueless",
+        "tmdbId": 9603,
+        "mediaType": "movie",
+        "backdropPath": "/65d0MccsiRSPTVicregKQL8owoo.jpg"
+    },
+    {
+        "name": "They Came Together",
+        "tmdbId": 180296,
+        "mediaType": "movie",
+        "backdropPath": "/be8mNf9tHTjrJWQ1O9srDYEAfTj.jpg"
+    },
+    {
+        "name": "Aces Go Places",
+        "tmdbId": 2644,
+        "mediaType": "movie",
+        "backdropPath": "/wUfM71xLbKV9YbEtuBc3DfjgMia.jpg"
+    },
+    {
+        "name": "Aces Go Places II",
+        "tmdbId": 2645,
+        "mediaType": "movie",
+        "backdropPath": "/8wbHaMPgjG0lUqqAma8bzSLe091.jpg"
+    },
+    {
+        "name": "Aces Go Places III: Our Man from Bond Street",
+        "tmdbId": 2646,
+        "mediaType": "movie",
+        "backdropPath": "/jJYasNGPK2dPwk1iSOV4yiddfXH.jpg"
+    },
+    {
+        "name": "Aces Go Places IV: You Never Die Twice",
+        "tmdbId": 2647,
+        "mediaType": "movie",
+        "backdropPath": "/dWAcSko0xlRXqpWXeDyjT5bqfbj.jpg"
+    },
+    {
+        "name": "Aces Go Places V: The Terracotta Hit",
+        "tmdbId": 2648,
+        "mediaType": "movie",
+        "backdropPath": "/qhvJIaKBXPynofiJRZV82T7rip7.jpg"
+    },
+    {
+        "name": "Get Smart",
+        "tmdbId": 4455,
+        "mediaType": "tv",
+        "backdropPath": "/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg"
+    },
+    {
+        "name": "Get Smart",
+        "tmdbId": 15830,
+        "mediaType": "tv",
+        "backdropPath": "/cXjMHIRO7v9bqoADbQj40IyMsVt.jpg"
+    },
+    {
+        "name": "Get Smart, Again!",
+        "tmdbId": 33787,
+        "mediaType": "movie",
+        "backdropPath": "/j9ziFhfQc4nqTHF34HHIoDaudxz.jpg"
+    },
+    {
+        "name": "Get Smart",
+        "tmdbId": 11665,
+        "mediaType": "movie",
+        "backdropPath": "/AfqYmTA3JUsyrFAVHoFyjyjG3Vl.jpg"
+    },
+    {
+        "name": "The Cabin in the Woods",
+        "tmdbId": 22970,
+        "mediaType": "movie",
+        "backdropPath": "/dWLoSzvw52y1gt7ni9gZXdy693e.jpg"
+    },
+    {
+        "name": "Tucker and Dale vs. Evil",
+        "tmdbId": 46838,
+        "mediaType": "movie",
+        "backdropPath": "/kgaQLCOpH8K5kZZRmeiI4btSrl0.jpg"
+    },
+    {
+        "name": "Elite Cup",
+        "tmdbId": 243451,
+        "mediaType": "movie",
+        "backdropPath": "/hWzet8Ff8uF0PNbQpHCEpxHjkaC.jpg"
+    },
+    {
+        "name": "The Last Hangover",
+        "tmdbId": 571721,
+        "mediaType": "movie",
+        "backdropPath": "/zLyDRUKp11FKIs54y72M4i73Rmk.jpg"
+    },
+    {
+        "name": "The First Temptation of Christ",
+        "tmdbId": 652020,
+        "mediaType": "movie",
+        "backdropPath": "/uUPsIfuQVDTijFg3sSh1AhVA7gh.jpg"
+    },
+    {
+        "name": "Pôr do Sol",
+        "tmdbId": 130350,
+        "mediaType": "tv",
+        "backdropPath": "/vo547dD5SdzBvmvfQT2ZtDbxisw.jpg"
+    },
+    {
+        "name": "Sunset: The Mystery of the Necklace of São Cajó",
+        "tmdbId": 1107940,
+        "mediaType": "movie",
+        "backdropPath": "/d8pG9Kd4l14L9PF501oA0NDyVNB.jpg"
+    },
+    {
+        "name": "Balas & Bolinhos",
+        "tmdbId": 71780,
+        "mediaType": "movie",
+        "backdropPath": "/9PnvaN2oW9LxfhKXJZLUu2ykBBN.jpg"
+    },
+    {
+        "name": "Balas & Bolinhos: O Regresso",
+        "tmdbId": 71781,
+        "mediaType": "movie",
+        "backdropPath": "/6mKz1vQimffgvfQPMRem9WxEiiX.jpg"
+    },
+    {
+        "name": "Balas & Bolinhos: O Último Capítulo",
+        "tmdbId": 98472,
+        "mediaType": "movie",
+        "backdropPath": "/q2ZWXezzwJW3F70PBJeJDm0sdh1.jpg"
+    },
+    {
+        "name": "Balas & Bolinhos: Só Mais Uma Coisa",
+        "tmdbId": 1323894,
+        "mediaType": "movie",
+        "backdropPath": "/2gndsZfcsGETIUKGf7PLTWqLNjE.jpg"
+    },
+    {
+        "name": "O Ninja das Caldas",
+        "tmdbId": 36326,
+        "mediaType": "movie",
+        "backdropPath": "/2XAtxMiIyza1yN0qm5R7yvez9dd.jpg"
+    },
+    {
+        "name": "Fifty Shades of Black",
+        "tmdbId": 351819,
+        "mediaType": "movie",
+        "backdropPath": "/y6VYJEvzWhTCXrrv0ubiczOpVND.jpg"
+    },
+    {
+        "name": "A Haunted House",
+        "tmdbId": 139038,
+        "mediaType": "movie",
+        "backdropPath": "/cMmyQLngx0maSp6EvyK3EOPIQKM.jpg"
+    },
+    {
+        "name": "A Haunted House 2",
+        "tmdbId": 184345,
+        "mediaType": "movie",
+        "backdropPath": "/zHF0KdYTuKkwyaE1mt0oFeCB2EF.jpg"
+    },
+    {
+        "name": "The Hungover Games",
+        "tmdbId": 244688,
+        "mediaType": "movie",
+        "backdropPath": "/z3Q8cbwmtsVdkPDCX10XawVG3bc.jpg"
+    },
+    {
+        "name": "The Starving Games",
+        "tmdbId": 225703,
+        "mediaType": "movie",
+        "backdropPath": "/jNPtcaPcAjPs7azPexyTETWBbjK.jpg"
+    },
+    {
+        "name": "Superfast!",
+        "tmdbId": 325358,
+        "mediaType": "movie",
+        "backdropPath": "/v7JSw9XCkdv533TP7VabRZJ63PC.jpg"
+    },
+    {
+        "name": "Supernatural Activity",
+        "tmdbId": 127421,
+        "mediaType": "movie",
+        "backdropPath": "/qPmBskbM2DTaDxMazfCZb6iVaU5.jpg"
+    },
+    {
+        "name": "Tooken",
+        "tmdbId": 337663,
+        "mediaType": "movie",
+        "backdropPath": "/ls5GrwcWVoEey0pbYNTWzbr0tFg.jpg"
+    },
+    {
+        "name": "Totally Innocent",
+        "tmdbId": 129707,
+        "mediaType": "movie",
+        "backdropPath": "/3e24NegRHVe9BPTmJ3l5OjMAqpw.jpg"
+    },
+    {
+        "name": "Vampires Suck",
+        "tmdbId": 40264,
+        "mediaType": "movie",
+        "backdropPath": "/uACr2UntrZNqlFpQYFlqbVAb1eW.jpg"
+    },
+    {
+        "name": "What We Do in the Shadows",
+        "tmdbId": 83631,
+        "mediaType": "tv",
+        "backdropPath": "/mKikck71CvVISUSTLk29fwRbH4y.jpg"
+    },
+    {
+        "name": "What We Do in the Shadows",
+        "tmdbId": 246741,
+        "mediaType": "movie",
+        "backdropPath": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg"
+    },
+    {
+        "name": "2001: A Space Travesty",
+        "tmdbId": 7290,
+        "mediaType": "movie",
+        "backdropPath": "/1RsbtQ0hhEORWszanaWom6pK51D.jpg"
+    },
+    {
+        "name": "An American Carol",
+        "tmdbId": 13948,
+        "mediaType": "movie",
+        "backdropPath": "/2yVYx8v0UfAI7IeATLBNaoE1Vlr.jpg"
+    },
+    {
+        "name": "Another Gay Movie",
+        "tmdbId": 12795,
+        "mediaType": "movie",
+        "backdropPath": "/302tmTbbTs1SfEQqUYF2FvQaKoe.jpg"
+    },
+    {
+        "name": "Date Movie",
+        "tmdbId": 10073,
+        "mediaType": "movie",
+        "backdropPath": "/vORtOIuQMp3h3DCC6acfv1tsqhy.jpg"
+    },
+    {
+        "name": "Farce of the Penguins",
+        "tmdbId": 12486,
+        "mediaType": "movie",
+        "backdropPath": "/mxDKl54b4S4gQG5N1hNRDw7zXsK.jpg"
+    },
+    {
+        "name": "H3 - Halloween Horror Hostel",
+        "tmdbId": 272426,
+        "mediaType": "movie",
+        "backdropPath": "/jVMQ5VcpGCNGs8sR2Zwy3RIzqmu.jpg"
+    },
+    {
+        "name": "Jesus Christ Vampire Hunter",
+        "tmdbId": 16209,
+        "mediaType": "movie",
+        "backdropPath": "/chTzuvknyHTc0jqjQjGsEjmg5DG.jpg"
+    },
+    {
+        "name": "Kill Buljo",
+        "tmdbId": 17285,
+        "mediaType": "movie",
+        "backdropPath": "/cltMRmx0SaGvMI51T92ZJjouOj5.jpg"
+    },
+    {
+        "name": "Kill Buljo 2",
+        "tmdbId": 247290,
+        "mediaType": "movie",
+        "backdropPath": "/zmM5wIYBaOp0aKM4EoLbrvMuctF.jpg"
+    },
+    {
+        "name": "Kung Phooey!",
+        "tmdbId": 58255,
+        "mediaType": "movie",
+        "backdropPath": "/6Cx59irjtesx5GjQrq8oZ6SIj0k.jpg"
+    },
+    {
+        "name": "Land of the Lost",
+        "tmdbId": 18162,
+        "mediaType": "movie",
+        "backdropPath": "/6FTIgtJk1mqmBTg9AEBrRKhLG1c.jpg"
+    },
+    {
+        "name": "Meet the Spartans",
+        "tmdbId": 7278,
+        "mediaType": "movie",
+        "backdropPath": "/8D3dBwSoPSGWRusbTYS8oR1tAu9.jpg"
+    },
+    {
+        "name": "My Big Fat Independent Movie",
+        "tmdbId": 27404,
+        "mediaType": "movie",
+        "backdropPath": "/2NzPJJ3rEUv1gOEJmb12RaRHYB3.jpg"
+    },
+    {
+        "name": "Not Another Teen Movie",
+        "tmdbId": 11397,
+        "mediaType": "movie",
+        "backdropPath": "/lyf1jjoMD1Pe7KD6KKEqL4Owgeb.jpg"
+    },
+    {
+        "name": "Reno 911!",
+        "tmdbId": 2187,
+        "mediaType": "tv",
+        "backdropPath": "/tZ2kKliPcBVEKQOTYbndFdIKIB8.jpg"
+    },
+    {
+        "name": "Reno 911!",
+        "tmdbId": 103190,
+        "mediaType": "tv",
+        "backdropPath": "/lfM4uGNhWCMpgfJu1opCoFhfYtl.jpg"
+    },
+    {
+        "name": "Reno 911! Defunded",
+        "tmdbId": 158505,
+        "mediaType": "tv",
+        "backdropPath": "/rbInGedXwL6RQwx6TizlsWyaXrs.jpg"
+    },
+    {
+        "name": "Reno 911!: Miami",
+        "tmdbId": 10090,
+        "mediaType": "movie",
+        "backdropPath": "/tNCBhUrlskXHvp7JozWUmVKeuP0.jpg"
+    },
+    {
+        "name": "Shriek If You Know What I Did Last Friday the Thirteenth",
+        "tmdbId": 4226,
+        "mediaType": "movie",
+        "backdropPath": "/wjOC016WdJd6xCphiebKNYDuq4Q.jpg"
+    },
+    {
+        "name": "Spanish Movie",
+        "tmdbId": 35640,
+        "mediaType": "movie",
+        "backdropPath": "/cmz40N9zZWsmCJ2vSlDaCKWeqlt.jpg"
+    },
+    {
+        "name": "Stan Helsing",
+        "tmdbId": 23988,
+        "mediaType": "movie",
+        "backdropPath": "/8K4E1Cniy5HRbpGO26lj5fYvZRf.jpg"
+    },
+    {
+        "name": "Superhero Movie",
+        "tmdbId": 11918,
+        "mediaType": "movie",
+        "backdropPath": "/iA5yYNAclwXWGe46T7gatzGYcRu.jpg"
+    },
+    {
+        "name": "Transylmania",
+        "tmdbId": 37190,
+        "mediaType": "movie",
+        "backdropPath": "/y7y5F8PAuTEWWFcdeeTv0oDjTAR.jpg"
+    },
+    {
+        "name": "The Trixxer",
+        "tmdbId": 7281,
+        "mediaType": "movie",
+        "backdropPath": "/lisILqhRqF9qlkFbLVTo6S4Rvbf.jpg"
+    },
+    {
+        "name": "Fear City: A Family-Style Comedy",
+        "tmdbId": 15097,
+        "mediaType": "movie",
+        "backdropPath": "/jMT2nS6ou3xwzp1XX40v8rJKl7U.jpg"
+    },
+    {
+        "name": "The Eagle Shooting Heroes",
+        "tmdbId": 55157,
+        "mediaType": "movie",
+        "backdropPath": "/A7SfkQbYiU5iN275bZzA3vumWAo.jpg"
+    },
+    {
+        "name": "Forbidden City Cop",
+        "tmdbId": 37702,
+        "mediaType": "movie",
+        "backdropPath": "/8Ly3AUHwkadZFfLPvLsNA657heA.jpg"
+    },
+    {
+        "name": "Last Action Hero",
+        "tmdbId": 9593,
+        "mediaType": "movie",
+        "backdropPath": "/neVhDxYVsmMMSuhXpHMT3LMK9f.jpg"
+    },
+    {
+        "name": "Night of the Living Bread",
+        "tmdbId": 140694,
+        "mediaType": "movie",
+        "backdropPath": "/wkaURibXot7tRA6Tha9lKRJupH5.jpg"
+    },
+    {
+        "name": "Wrongfully Accused",
+        "tmdbId": 9417,
+        "mediaType": "movie",
+        "backdropPath": "/KOXNduDONfkv4zk3ZwNWbZuCOe.jpg"
+    },
+    {
+        "name": "Amazon Women on the Moon",
+        "tmdbId": 5709,
+        "mediaType": "movie",
+        "backdropPath": "/nAl380kw8qxE7FeSdbbghKuUlp6.jpg"
+    },
+    {
+        "name": "Hysterical",
+        "tmdbId": 73626,
+        "mediaType": "movie",
+        "backdropPath": "/yNCVyG7OD2ibtg1Rdv1QFp7VBom.jpg"
+    },
+    {
+        "name": "Lobster Man from Mars",
+        "tmdbId": 64342,
+        "mediaType": "movie",
+        "backdropPath": "/idMbHx0nfV5RqdHjcEpZIAmylmX.jpg"
+    },
+    {
+        "name": "The Man with Two Brains",
+        "tmdbId": 11591,
+        "mediaType": "movie",
+        "backdropPath": "/p8HJznvwvFCkXJb2eKiJCfCIIM5.jpg"
+    },
+    {
+        "name": "Class Reunion",
+        "tmdbId": 33374,
+        "mediaType": "movie",
+        "backdropPath": "/fj2veI2FLhx6w6OS9XZRzvKlXkm.jpg"
+    },
+    {
+        "name": "Top Secret!",
+        "tmdbId": 8764,
+        "mediaType": "movie",
+        "backdropPath": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg"
+    }
+]
