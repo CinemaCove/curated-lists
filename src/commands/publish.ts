@@ -1,7 +1,8 @@
-import { Command } from 'commander';
 import { select, input } from '@inquirer/prompts';
+import { Command } from 'commander';
+
+import { getNextOrder, publishCuratedList } from '../services/mongodb';
 import { getAllLists } from '../services/tmdb';
-import { publishCuratedList } from '../services/mongodb';
 
 export function publishCommand(program: Command): void {
     program
@@ -34,11 +35,13 @@ export function publishCommand(program: Command): void {
 
             const selectedList = await select({
                 message: 'Select a list to publish:',
-                choices: lists.map((list) => ({
+                choices: lists.map(list => ({
                     name: `[${list.id}]  ${list.name}  (${list.item_count} items)`,
                     value: list,
                 })),
             });
+
+            const nextOrder = await getNextOrder(mongoUri, dbName, collectionName);
 
             const icon = await input({
                 message: 'Material icon name:',
@@ -47,8 +50,8 @@ export function publishCommand(program: Command): void {
 
             const orderInput = await input({
                 message: 'Order:',
-                default: '0',
-                validate: (val) => {
+                default: String(nextOrder),
+                validate: val => {
                     const n = Number(val);
                     return Number.isFinite(n) || 'Must be a number';
                 },
@@ -59,7 +62,7 @@ export function publishCommand(program: Command): void {
             });
 
             const record = {
-                tmdbListId: selectedList.id,
+                tmdbListId: Number(selectedList.id),
                 name: selectedList.name,
                 description: selectedList.description ?? '',
                 icon,
@@ -71,7 +74,7 @@ export function publishCommand(program: Command): void {
             await publishCuratedList(mongoUri, dbName, collectionName, record);
 
             console.log(
-                `Done! "${selectedList.name}" (ID: ${selectedList.id}) saved to ${dbName}.${collectionName}`,
+                `Done! "${selectedList.name}" (ID: ${selectedList.id}) saved to ${dbName}.${collectionName}`
             );
         });
 }

@@ -1,4 +1,5 @@
 import { Command } from 'commander';
+
 import { getAllLists } from '../services/tmdb';
 
 export function listsCommand(program: Command): void {
@@ -43,7 +44,7 @@ export function listsCommand(program: Command): void {
                     String(list.id).padEnd(COL_ID) +
                         list.name.substring(0, COL_NAME - 2).padEnd(COL_NAME) +
                         String(list.item_count).padEnd(COL_ITEMS) +
-                        desc.substring(0, 50),
+                        desc.substring(0, 50)
                 );
             }
         });

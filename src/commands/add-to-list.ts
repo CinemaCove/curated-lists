@@ -1,5 +1,7 @@
-import { Command } from 'commander';
 import fs from 'fs';
+
+import { Command } from 'commander';
+
 import { addItemsToList } from '../services/tmdb';
 import { MediaItem } from '../types';
 
@@ -7,11 +9,17 @@ export function addToListCommand(program: Command): void {
     program
         .command('add-to-list <list-id> <json-file>')
         .description('Add items from a JSON file to an existing TMDB list')
-        .option('-t, --media-type <type>', 'Default media type for items without one (movie|tv)', 'movie')
+        .option(
+            '-t, --media-type <type>',
+            'Default media type for items without one (movie|tv)',
+            'movie'
+        )
         .action(async (listIdStr: string, jsonFile: string, options: { mediaType: string }) => {
             const token = process.env.TMDB_USER_ACCESS_TOKEN;
             if (!token) {
-                console.error('Error: TMDB_USER_ACCESS_TOKEN not set. Run `curated-lists login` first.');
+                console.error(
+                    'Error: TMDB_USER_ACCESS_TOKEN not set. Run `curated-lists login` first.'
+                );
                 process.exit(1);
             }
 
@@ -30,7 +38,7 @@ export function addToListCommand(program: Command): void {
                 process.exit(1);
             }
 
-            const itemsWithType = items.map((item) => ({
+            const itemsWithType = items.map(item => ({
                 ...item,
                 mediaType: item.mediaType ?? (options.mediaType as 'movie' | 'tv'),
             }));

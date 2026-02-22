@@ -1,10 +1,18 @@
 import 'dotenv/config';
 
+import dns from 'dns';
 import { Command } from 'commander';
-import { loginCommand } from './commands/login';
-import { createListCommand } from './commands/create-list';
+
+// Node.js (c-ares) picks up 127.0.0.1 from WSL/Docker instead of the system
+// DNS, which doesn't support SRV records needed for mongodb+srv:// URIs.
+dns.setServers(['8.8.8.8', '8.8.4.4']);
+
 import { addToListCommand } from './commands/add-to-list';
+import { createListCommand } from './commands/create-list';
+import { deleteListCommand } from './commands/delete-list';
+import { searchCommand } from './commands/search';
 import { listsCommand } from './commands/lists';
+import { loginCommand } from './commands/login';
 import { publishCommand } from './commands/publish';
 
 const program = new Command();
@@ -19,8 +27,10 @@ createListCommand(program);
 addToListCommand(program);
 listsCommand(program);
 publishCommand(program);
+deleteListCommand(program);
+searchCommand(program);
 
-program.parseAsync().catch((err) => {
+program.parseAsync().catch(err => {
     console.error(err instanceof Error ? err.message : err);
     process.exit(1);
 });

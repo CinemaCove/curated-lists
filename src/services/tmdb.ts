@@ -1,4 +1,5 @@
 import { TmdbClient, MediaType, AccountCustomListResultItem } from '@cinemacove/tmdb-client/v4';
+import { TmdbClient as TmdbClientV3, MediaType as MediaTypeV3 } from '@cinemacove/tmdb-client/v3';
 
 import { MediaItem, TmdbListSummary } from '../types';
 
@@ -97,4 +98,45 @@ export async function getAllLists(
     } while (page <= totalPages);
 
     return all;
+}
+
+export async function deleteList(userToken: string, listId: number): Promise<void> {
+    const client = new TmdbClient(userToken);
+    await client.list.delete(listId);
+}
+
+// ── Search ──────────────────────────────────────────────────────────────────
+
+export interface SearchResult {
+    tmdbId: number;
+    name: string;
+    mediaType: 'movie' | 'tv';
+    releaseDate: string;
+    voteAverage: number;
+    backdropPath: string;
+    overview: string;
+}
+
+export async function searchMedia(userToken: string, query: string): Promise<SearchResult[]> {
+    const client = new TmdbClientV3({
+        accessToken: userToken,
+    });
+    const data = await client.search.multi({ query });
+
+    return data.results
+        .filter(r => r.mediaType === MediaTypeV3.Movie || r.mediaType === MediaTypeV3.TvShow)
+        .map(r => {
+            // The type only covers movie fields; TV results carry `name` and
+            // `firstAirDate` at runtime even though they're not in the type.
+            const raw = r as typeof r & { name?: string; firstAirDate?: string };
+            return {
+                tmdbId: r.id,
+                name: r.title || raw.name || '',
+                mediaType: (r.mediaType === MediaTypeV3.TvShow ? 'tv' : 'movie') as 'movie' | 'tv',
+                releaseDate: r.releaseDate || raw.firstAirDate || '',
+                voteAverage: r.voteAverage,
+                backdropPath: r.backdropPath || '',
+                overview: r.overview || '',
+            };
+        });
 }

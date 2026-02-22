@@ -13,10 +13,10 @@ npm install curated-lists
 ```typescript
 import { add, subtract, multiply, divide } from 'curated-lists';
 
-console.log(add(2, 3));      // 5
+console.log(add(2, 3)); // 5
 console.log(subtract(5, 3)); // 2
 console.log(multiply(4, 5)); // 20
-console.log(divide(10, 2));  // 5
+console.log(divide(10, 2)); // 5
 ```
 
 ## API
