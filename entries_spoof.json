@@ -155,11 +155,6 @@
         "mediaType": "movie"
     },
     {
-        "name": "Black Dynamite",
-        "tmdbId": 40064,
-        "mediaType": "movie"
-    },
-    {
         "name": "Tropic Thunder",
         "tmdbId": 7446,
         "mediaType": "movie"
@@ -798,12 +793,6 @@
         "backdropPath": "/mxDKl54b4S4gQG5N1hNRDw7zXsK.jpg"
     },
     {
-        "name": "H3 - Halloween Horror Hostel",
-        "tmdbId": 272426,
-        "mediaType": "movie",
-        "backdropPath": "/jVMQ5VcpGCNGs8sR2Zwy3RIzqmu.jpg"
-    },
-    {
         "name": "Jesus Christ Vampire Hunter",
         "tmdbId": 16209,
         "mediaType": "movie",
@@ -936,12 +925,6 @@
         "backdropPath": "/neVhDxYVsmMMSuhXpHMT3LMK9f.jpg"
     },
     {
-        "name": "Night of the Living Bread",
-        "tmdbId": 140694,
-        "mediaType": "movie",
-        "backdropPath": "/wkaURibXot7tRA6Tha9lKRJupH5.jpg"
-    },
-    {
         "name": "Wrongfully Accused",
         "tmdbId": 9417,
         "mediaType": "movie",
@@ -982,5 +965,17 @@
         "tmdbId": 8764,
         "mediaType": "movie",
         "backdropPath": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg"
+    },
+    {
+        "name": "Scary Movie",
+        "tmdbId": 4247,
+        "mediaType": "movie",
+        "backdropPath": "/uHZRTGMFb1RLmgWcqlIOZsGbDCT.jpg"
+    },
+    {
+        "name": "Black Dynamite",
+        "tmdbId": 24804,
+        "mediaType": "movie",
+        "backdropPath": "/gpcJuvH1tRWfdGv6ysWVRN3EZXL.jpg"
     }
 ]

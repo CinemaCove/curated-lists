@@ -1,4 +1,4 @@
-import { select, input } from '@inquirer/prompts';
+import { select, input, confirm } from '@inquirer/prompts';
 import { Command } from 'commander';
 
 import { getNextOrder, publishCuratedList } from '../services/mongodb';
@@ -62,6 +62,11 @@ export function publishCommand(program: Command): void {
                 default: 'https://image.tmdb.org/t/p/w500/',
             });
 
+            const isUnified = await confirm({
+                message: 'Is this a unified list?',
+                default: false,
+            });
+
             const record = {
                 tmdbListId: Number(selectedList.id),
                 name: selectedList.name,
@@ -69,6 +74,7 @@ export function publishCommand(program: Command): void {
                 icon,
                 order: Number(orderInput),
                 imagePath,
+                isUnified,
             };
 
             console.log('\nPublishing to MongoDB...');
