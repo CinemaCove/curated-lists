@@ -1,0 +1,122 @@
+[
+    {
+        "name": "The Dark Tower",
+        "tmdbId": 216078,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "Carrie",
+        "tmdbId": 288673,
+        "mediaType": "tv",
+        "backdropPath": "/1ZZDHrw6cey92H3o9hqPEgW2O7r.jpg"
+    },
+    {
+        "name": "Makebelieve",
+        "tmdbId": 484346,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Still Life",
+        "tmdbId": 484344,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Ghosts of Hamilton Street",
+        "tmdbId": 430253,
+        "mediaType": "movie",
+        "backdropPath": "/myTPW9ib908nSO3l7QYPiFTq133.jpg"
+    },
+    {
+        "name": "Oculus: Chapter 3 - The Man with the Plan",
+        "tmdbId": 264833,
+        "mediaType": "movie",
+        "backdropPath": "/pJoesnMYCuK5NL1TVSOo8C13WNi.jpg"
+    },
+    {
+        "name": "Absentia",
+        "tmdbId": 74777,
+        "mediaType": "movie",
+        "backdropPath": "/hY0BJllNWKQP9BvJu6gCVbUEXVf.jpg"
+    },
+    {
+        "name": "Oculus",
+        "tmdbId": 157547,
+        "mediaType": "movie",
+        "backdropPath": "/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg"
+    },
+    {
+        "name": "Hush",
+        "tmdbId": 376570,
+        "mediaType": "movie",
+        "backdropPath": "/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg"
+    },
+    {
+        "name": "Before I Wake",
+        "tmdbId": 301804,
+        "mediaType": "movie",
+        "backdropPath": "/xPbm6DJCn26NHvRwsuG9eGC0b3y.jpg"
+    },
+    {
+        "name": "Ouija: Origin of Evil",
+        "tmdbId": 335796,
+        "mediaType": "movie",
+        "backdropPath": "/gcwRlIbVurhcqbpYeCJU9HJgYmQ.jpg"
+    },
+    {
+        "name": "Gerald's Game",
+        "tmdbId": 343674,
+        "mediaType": "movie",
+        "backdropPath": "/t9HChjSJi8B1PXSVh5Ec3pcDsAM.jpg"
+    },
+    {
+        "name": "The Haunting of Hill House",
+        "tmdbId": 72844,
+        "mediaType": "tv",
+        "backdropPath": "/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg"
+    },
+    {
+        "name": "Doctor Sleep",
+        "tmdbId": 501170,
+        "mediaType": "movie",
+        "backdropPath": "/gKk8Bg4qpHfniAJC3phzCZpkaIg.jpg"
+    },
+    {
+        "name": "The Haunting of Bly Manor",
+        "tmdbId": 109958,
+        "mediaType": "tv",
+        "backdropPath": "/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg"
+    },
+    {
+        "name": "Midnight Mass",
+        "tmdbId": 97400,
+        "mediaType": "tv",
+        "backdropPath": "/YauN3gyvgqktYhze4gXPWuoZBY.jpg"
+    },
+    {
+        "name": "The Midnight Club",
+        "tmdbId": 126254,
+        "mediaType": "tv",
+        "backdropPath": "/rjnnQOSntiuiHIbYKy4oessqaKA.jpg"
+    },
+    {
+        "name": "The Fall of the House of Usher",
+        "tmdbId": 157065,
+        "mediaType": "tv",
+        "backdropPath": "/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg"
+    },
+    {
+        "name": "The Life of Chuck",
+        "tmdbId": 842924,
+        "mediaType": "movie",
+        "backdropPath": "/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg"
+    },
+    {
+        "name": "The Exorcist",
+        "tmdbId": 1297467,
+        "mediaType": "movie",
+        "backdropPath": ""
+    }
+]

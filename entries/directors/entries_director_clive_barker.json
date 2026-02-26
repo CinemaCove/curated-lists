@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Salome",
+        "tmdbId": 143095,
+        "mediaType": "movie",
+        "backdropPath": "/zTciUjvAhkS8sJxMQPOPgFeXfG5.jpg"
+    },
+    {
+        "name": "The Forbidden",
+        "tmdbId": 143109,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Hellraiser",
+        "tmdbId": 9003,
+        "mediaType": "movie",
+        "backdropPath": "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg"
+    },
+    {
+        "name": "Nightbreed",
+        "tmdbId": 20481,
+        "mediaType": "movie",
+        "backdropPath": "/6h36ojqGwfayf14YA0FPp8ExRmq.jpg"
+    },
+    {
+        "name": "Lord of Illusions",
+        "tmdbId": 8973,
+        "mediaType": "movie",
+        "backdropPath": "/xeoSaPhZ3SCizkCQaofVB9w6iZE.jpg"
+    }
+]

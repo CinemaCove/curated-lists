@@ -92,7 +92,7 @@ export function publishGroupCommand(program: Command): void {
                 icon,
                 ...(imagePathInput ? { imagePath: imagePathInput } : {}),
                 order: Number(orderInput),
-                lists: groupLists,
+                lists: [...groupLists].sort((a, b) => a.name.localeCompare(b.name)),
             };
 
             const exists = await findGroupByName(mongoUri, dbName, collectionName, name);

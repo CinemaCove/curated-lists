@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Stygian",
+        "tmdbId": 198181,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Saw",
+        "tmdbId": 246355,
+        "mediaType": "movie",
+        "backdropPath": "/8d2s5MP8mc1OXaq7zn6PHv9kWY4.jpg"
+    },
+    {
+        "name": "Saw",
+        "tmdbId": 176,
+        "mediaType": "movie",
+        "backdropPath": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg"
+    },
+    {
+        "name": "Dead Silence",
+        "tmdbId": 14001,
+        "mediaType": "movie",
+        "backdropPath": "/xMjAkXpCb55FTAV7By31p3TQMxb.jpg"
+    },
+    {
+        "name": "Death Sentence",
+        "tmdbId": 11835,
+        "mediaType": "movie",
+        "backdropPath": "/tlPAcPTRJmHgULtUVIasQWQQiVN.jpg"
+    },
+    {
+        "name": "Doggie Heaven",
+        "tmdbId": 208009,
+        "mediaType": "movie",
+        "backdropPath": "/66GCdDg69e12myJii5ADlDEpsB0.jpg"
+    },
+    {
+        "name": "Insidious",
+        "tmdbId": 49018,
+        "mediaType": "movie",
+        "backdropPath": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg"
+    },
+    {
+        "name": "The Conjuring",
+        "tmdbId": 138843,
+        "mediaType": "movie",
+        "backdropPath": "/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg"
+    },
+    {
+        "name": "Insidious: Chapter 2",
+        "tmdbId": 91586,
+        "mediaType": "movie",
+        "backdropPath": "/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg"
+    },
+    {
+        "name": "Furious 7",
+        "tmdbId": 168259,
+        "mediaType": "movie",
+        "backdropPath": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg"
+    },
+    {
+        "name": "The Conjuring 2",
+        "tmdbId": 259693,
+        "mediaType": "movie",
+        "backdropPath": "/mFCS5OuhPYT79KXu5jl7RqznPR1.jpg"
+    },
+    {
+        "name": "MacGyver",
+        "tmdbId": 67133,
+        "mediaType": "tv",
+        "backdropPath": "/v2moumGovVAmDASYkjakIl2WrOM.jpg"
+    },
+    {
+        "name": "Aquaman",
+        "tmdbId": 297802,
+        "mediaType": "movie",
+        "backdropPath": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg"
+    },
+    {
+        "name": "Malignant",
+        "tmdbId": 619778,
+        "mediaType": "movie",
+        "backdropPath": "/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg"
+    },
+    {
+        "name": "Aquaman and the Lost Kingdom",
+        "tmdbId": 572802,
+        "mediaType": "movie",
+        "backdropPath": "/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg"
+    }
+]

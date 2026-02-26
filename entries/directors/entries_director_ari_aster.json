@@ -1,0 +1,44 @@
+[
+    {
+        "name": "The Strange Thing About the Johnsons",
+        "tmdbId": 164052,
+        "mediaType": "movie",
+        "backdropPath": "/zURTkqYGHfEUUPLsUTHLxktiNom.jpg"
+    },
+    {
+        "name": "Munchausen",
+        "tmdbId": 502025,
+        "mediaType": "movie",
+        "backdropPath": "/s2VnckvPwr9zCv0uPI1biPbc6xO.jpg"
+    },
+    {
+        "name": "Basically",
+        "tmdbId": 334381,
+        "mediaType": "movie",
+        "backdropPath": "/79esnsCrep9Yc9TeAJIK7gHZqKR.jpg"
+    },
+    {
+        "name": "Hereditary",
+        "tmdbId": 493922,
+        "mediaType": "movie",
+        "backdropPath": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg"
+    },
+    {
+        "name": "Midsommar",
+        "tmdbId": 530385,
+        "mediaType": "movie",
+        "backdropPath": "/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg"
+    },
+    {
+        "name": "Beau Is Afraid",
+        "tmdbId": 798286,
+        "mediaType": "movie",
+        "backdropPath": "/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg"
+    },
+    {
+        "name": "Eddington",
+        "tmdbId": 648878,
+        "mediaType": "movie",
+        "backdropPath": "/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg"
+    }
+]

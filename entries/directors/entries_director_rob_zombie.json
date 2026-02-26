@@ -1,0 +1,98 @@
+[
+    {
+        "name": "CSI: Miami",
+        "tmdbId": 1620,
+        "mediaType": "tv",
+        "backdropPath": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg"
+    },
+    {
+        "name": "House of 1000 Corpses",
+        "tmdbId": 2662,
+        "mediaType": "movie",
+        "backdropPath": "/fGTQXeEbUFWHK7FlJk1Hgc2AHmF.jpg"
+    },
+    {
+        "name": "The Devil's Rejects",
+        "tmdbId": 1696,
+        "mediaType": "movie",
+        "backdropPath": "/qowCiLBwtL23W9LT4ctEL7XXXCY.jpg"
+    },
+    {
+        "name": "Halloween",
+        "tmdbId": 2082,
+        "mediaType": "movie",
+        "backdropPath": "/1tvvKnKyb4sLjF9znlE9vS5f9WJ.jpg"
+    },
+    {
+        "name": "Michael Lives: The Making of Halloween",
+        "tmdbId": 227002,
+        "mediaType": "movie",
+        "backdropPath": "/8kE45nSMwB7cUJIoO2RakDmcNVZ.jpg"
+    },
+    {
+        "name": "White Zombie: Let Sleeping Corpses Lie",
+        "tmdbId": 32474,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Halloween II",
+        "tmdbId": 24150,
+        "mediaType": "movie",
+        "backdropPath": "/mGHfOrb2MDOvgeFb4pQVeWH6adg.jpg"
+    },
+    {
+        "name": "The Haunted World of El Superbeasto",
+        "tmdbId": 23127,
+        "mediaType": "movie",
+        "backdropPath": "/8GesS58jfNn1Ytp2GnGj9ElW9fl.jpg"
+    },
+    {
+        "name": "Tom Papa: Live in New York City",
+        "tmdbId": 85944,
+        "mediaType": "movie",
+        "backdropPath": "/vFSg9EONGqVsRIRyYleeEHar7UI.jpg"
+    },
+    {
+        "name": "The Lords of Salem",
+        "tmdbId": 104755,
+        "mediaType": "movie",
+        "backdropPath": "/qdrmWfJPewIeZE9gU9ihr9diPbm.jpg"
+    },
+    {
+        "name": "Rob Zombie: The Zombie Horror Picture Show",
+        "tmdbId": 285749,
+        "mediaType": "movie",
+        "backdropPath": "/2xwxITMWkzKXDG52rY7GT5uAXTK.jpg"
+    },
+    {
+        "name": "Assassin’s Creed Unity: Rob Zombie’s French Revolution",
+        "tmdbId": 1068872,
+        "mediaType": "movie",
+        "backdropPath": "/k1eiJcdYZyFFKUHi3TUJRHwnuvr.jpg"
+    },
+    {
+        "name": "31",
+        "tmdbId": 284564,
+        "mediaType": "movie",
+        "backdropPath": "/fJ53qYWJTLOfI2x0csL1vVYfUpa.jpg"
+    },
+    {
+        "name": "3 from Hell",
+        "tmdbId": 489064,
+        "mediaType": "movie",
+        "backdropPath": "/xqdoDeulDTydU8AF2bLLnZXiZVT.jpg"
+    },
+    {
+        "name": "The Munsters",
+        "tmdbId": 804413,
+        "mediaType": "movie",
+        "backdropPath": "/tCuqvnWOAGhpkz8fpN8748EN4Ri.jpg"
+    },
+    {
+        "name": "The Munsters: Return to Mockingbird Lane",
+        "tmdbId": 1030400,
+        "mediaType": "movie",
+        "backdropPath": ""
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Hansel and Gretel",
+        "tmdbId": 527634,
+        "mediaType": "movie",
+        "backdropPath": "/fQFGVPmYT2FbIqQfaliEc8ZmQE9.jpg"
+    },
+    {
+        "name": "The Tell-Tale Heart",
+        "tmdbId": 383802,
+        "mediaType": "movie",
+        "backdropPath": "/eeVY7559eMBtcgr1sGsFmuVsdu6.jpg"
+    },
+    {
+        "name": "Brothers",
+        "tmdbId": 397805,
+        "mediaType": "movie",
+        "backdropPath": "/bKnAqrE2zJ3bTJkEc9A5ClaC4QX.jpg"
+    },
+    {
+        "name": "The Witch",
+        "tmdbId": 310131,
+        "mediaType": "movie",
+        "backdropPath": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
+    },
+    {
+        "name": "The Lighthouse",
+        "tmdbId": 503919,
+        "mediaType": "movie",
+        "backdropPath": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg"
+    },
+    {
+        "name": "The Northman",
+        "tmdbId": 639933,
+        "mediaType": "movie",
+        "backdropPath": "/fMiEp00v8gGWEceL4QeLu6H6z69.jpg"
+    },
+    {
+        "name": "Nosferatu",
+        "tmdbId": 426063,
+        "mediaType": "movie",
+        "backdropPath": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg"
+    },
+    {
+        "name": "Werwulf",
+        "tmdbId": 1421903,
+        "mediaType": "movie",
+        "backdropPath": ""
+    }
+]

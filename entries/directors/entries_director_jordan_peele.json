@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Get Out",
+        "tmdbId": 419430,
+        "mediaType": "movie",
+        "backdropPath": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg"
+    },
+    {
+        "name": "Us",
+        "tmdbId": 458723,
+        "mediaType": "movie",
+        "backdropPath": "/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg"
+    },
+    {
+        "name": "Nope",
+        "tmdbId": 762504,
+        "mediaType": "movie",
+        "backdropPath": "/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg"
+    }
+]
