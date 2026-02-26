@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Flying Padre",
+        "tmdbId": 45970,
+        "mediaType": "movie",
+        "backdropPath": "/5HisBYhc75h0DYXSMJWN1eFaxse.jpg"
+    },
+    {
+        "name": "Day of the Fight",
+        "tmdbId": 45966,
+        "mediaType": "movie",
+        "backdropPath": "/lt1Lan9bmG29JjqaMad5tkRpCHJ.jpg"
+    },
+    {
+        "name": "Fear and Desire",
+        "tmdbId": 10165,
+        "mediaType": "movie",
+        "backdropPath": "/weKbLiUJQpiFt8hSHHxvZeRJMYG.jpg"
+    },
+    {
+        "name": "The Seafarers",
+        "tmdbId": 45314,
+        "mediaType": "movie",
+        "backdropPath": "/7xqbG5FN1u2OIcuhhKahz9oejlY.jpg"
+    },
+    {
+        "name": "Killer's Kiss",
+        "tmdbId": 10056,
+        "mediaType": "movie",
+        "backdropPath": "/7ZbNuSp186oxSjdtz5npRLLjVSb.jpg"
+    },
+    {
+        "name": "The Killing",
+        "tmdbId": 247,
+        "mediaType": "movie",
+        "backdropPath": "/2EltoldCMsYmP2BXJVGiuNalEWv.jpg"
+    },
+    {
+        "name": "Paths of Glory",
+        "tmdbId": 975,
+        "mediaType": "movie",
+        "backdropPath": "/eTZkq5tI58Ec76AwPf1HOUoKtky.jpg"
+    },
+    {
+        "name": "Spartacus",
+        "tmdbId": 967,
+        "mediaType": "movie",
+        "backdropPath": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg"
+    },
+    {
+        "name": "Lolita",
+        "tmdbId": 802,
+        "mediaType": "movie",
+        "backdropPath": "/xGiqZw1AJJ6BZRNUT1XVBMBofnr.jpg"
+    },
+    {
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "tmdbId": 935,
+        "mediaType": "movie",
+        "backdropPath": "/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg"
+    },
+    {
+        "name": "2001: A Space Odyssey",
+        "tmdbId": 62,
+        "mediaType": "movie",
+        "backdropPath": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg"
+    },
+    {
+        "name": "A Clockwork Orange",
+        "tmdbId": 185,
+        "mediaType": "movie",
+        "backdropPath": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg"
+    },
+    {
+        "name": "Barry Lyndon",
+        "tmdbId": 3175,
+        "mediaType": "movie",
+        "backdropPath": "/okdg55jhsr9k1F2lxsZoQncrLZL.jpg"
+    },
+    {
+        "name": "The Shining",
+        "tmdbId": 694,
+        "mediaType": "movie",
+        "backdropPath": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg"
+    },
+    {
+        "name": "Full Metal Jacket",
+        "tmdbId": 600,
+        "mediaType": "movie",
+        "backdropPath": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg"
+    },
+    {
+        "name": "Eyes Wide Shut",
+        "tmdbId": 345,
+        "mediaType": "movie",
+        "backdropPath": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg"
+    }
+]

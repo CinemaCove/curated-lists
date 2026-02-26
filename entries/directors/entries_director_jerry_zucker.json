@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Airplane!",
+        "tmdbId": 813,
+        "mediaType": "movie",
+        "backdropPath": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg"
+    },
+    {
+        "name": "Police Squad!",
+        "tmdbId": 6024,
+        "mediaType": "tv",
+        "backdropPath": "/1u4GWKCitJWWkBWU3FP4cBG6non.jpg"
+    },
+    {
+        "name": "Top Secret!",
+        "tmdbId": 8764,
+        "mediaType": "movie",
+        "backdropPath": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg"
+    },
+    {
+        "name": "Ruthless People",
+        "tmdbId": 12151,
+        "mediaType": "movie",
+        "backdropPath": "/pLuVm0Y37m2uuztLoaQbfimipqN.jpg"
+    },
+    {
+        "name": "Ghost",
+        "tmdbId": 251,
+        "mediaType": "movie",
+        "backdropPath": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg"
+    },
+    {
+        "name": "First Knight",
+        "tmdbId": 6520,
+        "mediaType": "movie",
+        "backdropPath": "/tsgEdYjwWVhdGHv01djx7KdXDJm.jpg"
+    },
+    {
+        "name": "Rat Race",
+        "tmdbId": 9896,
+        "mediaType": "movie",
+        "backdropPath": "/vian6RN3bC4QdBQzY1wTmBkhxVQ.jpg"
+    }
+]

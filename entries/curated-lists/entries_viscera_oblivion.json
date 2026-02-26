@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Killer Whale",
+        "tmdbId": 1412598,
+        "mediaType": "movie",
+        "backdropPath": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg"
+    },
+    {
+        "name": "IT: Welcome to Derry",
+        "tmdbId": 200875,
+        "mediaType": "tv",
+        "backdropPath": "/2746UvsbkZINd873Yd3o3TxOwCP.jpg"
+    },
+    {
+        "name": "Primate",
+        "tmdbId": 1315303,
+        "mediaType": "movie",
+        "backdropPath": "/9uakM2woks0JV8HKIc4oatIVS88.jpg"
+    },
+    {
+        "name": "Dangerous Animals",
+        "tmdbId": 1285965,
+        "mediaType": "movie",
+        "backdropPath": "/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg"
+    },
+    {
+        "name": "Terrifier 3",
+        "tmdbId": 1034541,
+        "mediaType": "movie",
+        "backdropPath": "/bHfGHipZ32Oec94FDJO4mWs3aZ5.jpg"
+    },
+    {
+        "name": "The Substance",
+        "tmdbId": 933260,
+        "mediaType": "movie",
+        "backdropPath": "/9Whl7RAzes0oMaFAeSqD8ttN3fl.jpg"
+    },
+    {
+        "name": "Lowlifes",
+        "tmdbId": 1272890,
+        "mediaType": "movie",
+        "backdropPath": "/9AbL76J8pCKNhyNzdEg8e2SQ4LJ.jpg"
+    },
+    {
+        "name": "In a Violent Nature",
+        "tmdbId": 1214509,
+        "mediaType": "movie",
+        "backdropPath": "/z31pODVM3uUB4bvirzxHdxrJIzb.jpg"
+    },
+    {
+        "name": "Terrifier 2",
+        "tmdbId": 663712,
+        "mediaType": "movie",
+        "backdropPath": "/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg"
+    },
+    {
+        "name": "Speak No Evil",
+        "tmdbId": 833339,
+        "mediaType": "movie",
+        "backdropPath": "/lHhRU3jEnju4pKibOeYOgxaEw2y.jpg"
+    },
+    {
+        "name": "Some Like It Rare",
+        "tmdbId": 730769,
+        "mediaType": "movie",
+        "backdropPath": "/vGrdFTKvrI5tBpfE2n24NITA6aq.jpg"
+    },
+    {
+        "name": "The Sadness",
+        "tmdbId": 776797,
+        "mediaType": "movie",
+        "backdropPath": "/1McO40rFBnUSz0EB2EwYQlUv9LV.jpg"
+    },
+    {
+        "name": "Possessor",
+        "tmdbId": 435615,
+        "mediaType": "movie",
+        "backdropPath": "/owTL741kAuvJDKYnXKJCgTRGRud.jpg"
+    },
+    {
+        "name": "Yummy",
+        "tmdbId": 633604,
+        "mediaType": "movie",
+        "backdropPath": "/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg"
+    },
+    {
+        "name": "Brightburn",
+        "tmdbId": 531309,
+        "mediaType": "movie",
+        "backdropPath": "/j3w3lT3ABvJsVE3byNOMCYmnGMB.jpg"
+    },
+    {
+        "name": "Apostle",
+        "tmdbId": 424121,
+        "mediaType": "movie",
+        "backdropPath": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg"
+    },
+    {
+        "name": "The House That Jack Built",
+        "tmdbId": 398173,
+        "mediaType": "movie",
+        "backdropPath": "/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg"
+    },
+    {
+        "name": "The Farm",
+        "tmdbId": 517764,
+        "mediaType": "movie",
+        "backdropPath": "/7Bl98JC4kGe62ORuFIsFtWtcIA2.jpg"
+    },
+    {
+        "name": "mother!",
+        "tmdbId": 381283,
+        "mediaType": "movie",
+        "backdropPath": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg"
+    },
+    {
+        "name": "Terrifier",
+        "tmdbId": 420634,
+        "mediaType": "movie",
+        "backdropPath": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg"
+    },
+    {
+        "name": "Raw",
+        "tmdbId": 393519,
+        "mediaType": "movie",
+        "backdropPath": "/46GikxYW84dRh71sWVY0eRQiHLX.jpg"
+    },
+    {
+        "name": "Wolf Creek",
+        "tmdbId": 66090,
+        "mediaType": "tv",
+        "backdropPath": "/24fDxKztYz2De26tAszSMZWNif0.jpg"
+    },
+    {
+        "name": "Slasher",
+        "tmdbId": 65784,
+        "mediaType": "tv",
+        "backdropPath": "/ba89FQhQuJXW52PV3RUMq9l973W.jpg"
+    },
+    {
+        "name": "Bone Tomahawk",
+        "tmdbId": 294963,
+        "mediaType": "movie",
+        "backdropPath": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg"
+    },
+    {
+        "name": "Green Room",
+        "tmdbId": 313922,
+        "mediaType": "movie",
+        "backdropPath": "/qRjahAq8JVoJBT2x18x2A01kxZT.jpg"
+    },
+    {
+        "name": "As the Gods Will",
+        "tmdbId": 241863,
+        "mediaType": "movie",
+        "backdropPath": "/uwZJ4tEgmjKomPPbiimrhHT9l90.jpg"
+    },
+    {
+        "name": "The Green Inferno",
+        "tmdbId": 171424,
+        "mediaType": "movie",
+        "backdropPath": "/qJcUobr34c77YRQQ7zacTNrBdKj.jpg"
+    },
+    {
+        "name": "Wolf Creek 2",
+        "tmdbId": 199534,
+        "mediaType": "movie",
+        "backdropPath": "/sENQb8BdjeqP8J0qvEaci69a4TV.jpg"
+    },
+    {
+        "name": "Hatchet III",
+        "tmdbId": 167575,
+        "mediaType": "movie",
+        "backdropPath": "/26hIJYDMVtQsp7NHmXrBoYbre7n.jpg"
+    },
+    {
+        "name": "Evil Dead",
+        "tmdbId": 109428,
+        "mediaType": "movie",
+        "backdropPath": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg"
+    },
+    {
+        "name": "Wrong Turn 5: Bloodlines",
+        "tmdbId": 125509,
+        "mediaType": "movie",
+        "backdropPath": "/3GTGFqZU2pXWg5fZPxDLNDdao28.jpg"
+    },
+    {
+        "name": "The Collection",
+        "tmdbId": 134597,
+        "mediaType": "movie",
+        "backdropPath": "/9wILyQxVRQZ7Ixfl1NGjKvcoC02.jpg"
+    },
+    {
+        "name": "Wrong Turn 4: Bloody Beginnings",
+        "tmdbId": 71672,
+        "mediaType": "movie",
+        "backdropPath": "/8xyJcJnYbupkPPMvwTEJaUwjxDI.jpg"
+    },
+    {
+        "name": "The Human Centipede 2 (Full Sequence)",
+        "tmdbId": 74997,
+        "mediaType": "movie",
+        "backdropPath": "/3avI4nJ3WNweQFHa2UwRMOO8cbL.jpg"
+    },
+    {
+        "name": "Hatchet II",
+        "tmdbId": 43919,
+        "mediaType": "movie",
+        "backdropPath": "/sh9aRWXveSCeY2TDgNv3UzXAUb9.jpg"
+    },
+    {
+        "name": "I Saw the Devil",
+        "tmdbId": 49797,
+        "mediaType": "movie",
+        "backdropPath": "/ylqOWMU3nyZqg8hjJBG4EPdsGSk.jpg"
+    },
+    {
+        "name": "Rare Exports: A Christmas Tale",
+        "tmdbId": 48395,
+        "mediaType": "movie",
+        "backdropPath": "/igFwEFRiEr0CzkQUNTcGYLxTpOi.jpg"
+    },
+    {
+        "name": "I Spit on Your Grave",
+        "tmdbId": 43947,
+        "mediaType": "movie",
+        "backdropPath": "/9pzIGGQtkEGHdxbV1f3YEuApO8g.jpg"
+    },
+    {
+        "name": "The Crazies",
+        "tmdbId": 29427,
+        "mediaType": "movie",
+        "backdropPath": "/n6wLCq16XxY5p0PG3EWU18LdFAM.jpg"
+    },
+    {
+        "name": "A Serbian Film",
+        "tmdbId": 73861,
+        "mediaType": "movie",
+        "backdropPath": "/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg"
+    },
+    {
+        "name": "Wrong Turn 3: Left for Dead",
+        "tmdbId": 23823,
+        "mediaType": "movie",
+        "backdropPath": "/8568C7FeSsjmqLGuObSB0oB6kOU.jpg"
+    },
+    {
+        "name": "The Loved Ones",
+        "tmdbId": 46420,
+        "mediaType": "movie",
+        "backdropPath": "/4paOhPYmIh6KdZtzRwqSO4VKaw4.jpg"
+    },
+    {
+        "name": "The Human Centipede (First Sequence)",
+        "tmdbId": 37169,
+        "mediaType": "movie",
+        "backdropPath": "/wubUakLEAAnKeXmuTks5insTKQx.jpg"
+    },
+    {
+        "name": "The Collector",
+        "tmdbId": 21407,
+        "mediaType": "movie",
+        "backdropPath": "/ywsta3d1MtV0MjQXs6uu0nnMjxi.jpg"
+    },
+    {
+        "name": "Antichrist",
+        "tmdbId": 17609,
+        "mediaType": "movie",
+        "backdropPath": "/utABPVjXBlM8NUOBecCyLLuzQSe.jpg"
+    },
+    {
+        "name": "Grotesque",
+        "tmdbId": 27297,
+        "mediaType": "movie",
+        "backdropPath": "/7qKgwbqMFoSa9Xk1XVvQMyhwEVk.jpg"
+    },
+    {
+        "name": "Deadgirl",
+        "tmdbId": 23966,
+        "mediaType": "movie",
+        "backdropPath": "/cxBbDUlZ10GibvyQ2iThASBm1Dj.jpg"
+    },
+    {
+        "name": "Eden Lake",
+        "tmdbId": 13510,
+        "mediaType": "movie",
+        "backdropPath": "/s9v1QZMVhwShQ7415jPhtfqzyjG.jpg"
+    },
+    {
+        "name": "The Midnight Meat Train",
+        "tmdbId": 10185,
+        "mediaType": "movie",
+        "backdropPath": "/seonOCwO49JUVWu4i4t8Ioe39fu.jpg"
+    },
+    {
+        "name": "Tokyo Gore Police",
+        "tmdbId": 16061,
+        "mediaType": "movie",
+        "backdropPath": "/8lfdElt77Sl85sL6tDvmar8ZbWz.jpg"
+    },
+    {
+        "name": "Martyrs",
+        "tmdbId": 9539,
+        "mediaType": "movie",
+        "backdropPath": "/fO1hwjlUqDe1ixO7eMfxTby62Ut.jpg"
+    },
+    {
+        "name": "Wrong Turn 2: Dead End",
+        "tmdbId": 13186,
+        "mediaType": "movie",
+        "backdropPath": "/asaPHNTjWiF45Inx8MafNCB43dt.jpg"
+    },
+    {
+        "name": "Frontier(s)",
+        "tmdbId": 13492,
+        "mediaType": "movie",
+        "backdropPath": "/tvcx12hEMeJMcKViZxIn6MxGC8e.jpg"
+    },
+    {
+        "name": "Hostel: Part II",
+        "tmdbId": 1691,
+        "mediaType": "movie",
+        "backdropPath": "/7MorkyWQXVOi2XKYci6pIGbjb2x.jpg"
+    },
+    {
+        "name": "Inside",
+        "tmdbId": 13312,
+        "mediaType": "movie",
+        "backdropPath": "/iumvooyF68waPmQUJ5gfxAurEWi.jpg"
+    },
+    {
+        "name": "The Poughkeepsie Tapes",
+        "tmdbId": 38410,
+        "mediaType": "movie",
+        "backdropPath": "/tAi9xQKBgYJVkBTfAtZ0OHEaXfb.jpg"
+    },
+    {
+        "name": "The Hills Have Eyes 2",
+        "tmdbId": 9793,
+        "mediaType": "movie",
+        "backdropPath": "/9V529yHwmYay2wmYo0YcgUijeJO.jpg"
+    },
+    {
+        "name": "Hatchet",
+        "tmdbId": 11908,
+        "mediaType": "movie",
+        "backdropPath": "/ni1CHXAZjmi8P588hEmEvr96uKZ.jpg"
+    },
+    {
+        "name": "The Hills Have Eyes",
+        "tmdbId": 9792,
+        "mediaType": "movie",
+        "backdropPath": "/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg"
+    },
+    {
+        "name": "Hostel",
+        "tmdbId": 1690,
+        "mediaType": "movie",
+        "backdropPath": "/dF6GNQ0TnZkr1t4wBt36Xc0Pccd.jpg"
+    },
+    {
+        "name": "Wolf Creek",
+        "tmdbId": 9885,
+        "mediaType": "movie",
+        "backdropPath": "/315xehapBIRk5XCHbcTxjgUmvdx.jpg"
+    },
+    {
+        "name": "Dumplings",
+        "tmdbId": 9060,
+        "mediaType": "movie",
+        "backdropPath": "/hvturB2M3xwTAEfzSX1kxan2406.jpg"
+    },
+    {
+        "name": "High Tension",
+        "tmdbId": 10226,
+        "mediaType": "movie",
+        "backdropPath": "/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg"
+    },
+    {
+        "name": "Wrong Turn",
+        "tmdbId": 9902,
+        "mediaType": "movie",
+        "backdropPath": "/uDN5vOzXjtThKdu4W07Xwk5IFub.jpg"
+    },
+    {
+        "name": "Ichi the Killer",
+        "tmdbId": 9696,
+        "mediaType": "movie",
+        "backdropPath": "/aw0EeseSr10dVUuY6Aiv6HhP8UW.jpg"
+    },
+    {
+        "name": "August Underground",
+        "tmdbId": 24836,
+        "mediaType": "movie",
+        "backdropPath": "/d5LywdMQJRGcKMR6dXuUYXtAcqJ.jpg"
+    },
+    {
+        "name": "Audition",
+        "tmdbId": 11075,
+        "mediaType": "movie",
+        "backdropPath": "/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg"
+    },
+    {
+        "name": "Splatter: Naked Blood",
+        "tmdbId": 36075,
+        "mediaType": "movie",
+        "backdropPath": "/s1PvYipppwcbge4n69rThiMSLg0.jpg"
+    },
+    {
+        "name": "Braindead",
+        "tmdbId": 763,
+        "mediaType": "movie",
+        "backdropPath": "/ecZ6MQ3Y63dtn35km6odO0e39aQ.jpg"
+    },
+    {
+        "name": "The Burning Moon",
+        "tmdbId": 40058,
+        "mediaType": "movie",
+        "backdropPath": "/lFNqSPK1EZZBoCfDUl65BGunCoe.jpg"
+    },
+    {
+        "name": "Begotten",
+        "tmdbId": 1483,
+        "mediaType": "movie",
+        "backdropPath": "/GtblqNxBX0fUbLVNhempSYwCWe.jpg"
+    },
+    {
+        "name": "Society",
+        "tmdbId": 22244,
+        "mediaType": "movie",
+        "backdropPath": "/cIpD6PGtCRG3ynaaBWZmf5cw8C5.jpg"
+    },
+    {
+        "name": "Men Behind the Sun",
+        "tmdbId": 25998,
+        "mediaType": "movie",
+        "backdropPath": "/8yscpKDJQnMz2O98bZKiHyknn64.jpg"
+    },
+    {
+        "name": "Nekromantik",
+        "tmdbId": 11822,
+        "mediaType": "movie",
+        "backdropPath": "/uJAYp2MTKTA42vhdm3UohrXiOVc.jpg"
+    },
+    {
+        "name": "Brain Damage",
+        "tmdbId": 27814,
+        "mediaType": "movie",
+        "backdropPath": "/2u0bhTWIBTbgtfDmJqrsQqydojh.jpg"
+    },
+    {
+        "name": "Bad Taste",
+        "tmdbId": 9964,
+        "mediaType": "movie",
+        "backdropPath": "/ewacCZjc710KBjxztABTwoWMken.jpg"
+    },
+    {
+        "name": "From Beyond",
+        "tmdbId": 14510,
+        "mediaType": "movie",
+        "backdropPath": "/sKcdPHvsGCNdDOD7LJdOibZuvUQ.jpg"
+    },
+    {
+        "name": "Henry: Portrait of a Serial Killer",
+        "tmdbId": 10692,
+        "mediaType": "movie",
+        "backdropPath": "/6J8K5uTcaFwPvG0r87s15f1il3E.jpg"
+    },
+    {
+        "name": "The Texas Chainsaw Massacre 2",
+        "tmdbId": 16337,
+        "mediaType": "movie",
+        "backdropPath": "/5MMnUP4mzay6tVNZ8DF3HBeEUMX.jpg"
+    },
+    {
+        "name": "The Fly",
+        "tmdbId": 9426,
+        "mediaType": "movie",
+        "backdropPath": "/cFnv7rB6I9gtZ0eTR7nPgjKNe0Q.jpg"
+    },
+    {
+        "name": "Re-Animator",
+        "tmdbId": 1694,
+        "mediaType": "movie",
+        "backdropPath": "/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg"
+    },
+    {
+        "name": "Guinea Pig Part 2: Flower of Flesh and Blood",
+        "tmdbId": 36073,
+        "mediaType": "movie",
+        "backdropPath": "/3gngLp4zgjYLOUKC5MBHfszdvz9.jpg"
+    },
+    {
+        "name": "Basket Case",
+        "tmdbId": 27813,
+        "mediaType": "movie",
+        "backdropPath": "/sr1JzL0qRXm3dJ2b8pXd3Uje5ch.jpg"
+    },
+    {
+        "name": "The New York Ripper",
+        "tmdbId": 30874,
+        "mediaType": "movie",
+        "backdropPath": "/dQBDaw2afx2Cx7WuGC3bDE5s6w2.jpg"
+    },
+    {
+        "name": "The Evil Dead",
+        "tmdbId": 764,
+        "mediaType": "movie",
+        "backdropPath": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg"
+    },
+    {
+        "name": "Possession",
+        "tmdbId": 21484,
+        "mediaType": "movie",
+        "backdropPath": "/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg"
+    },
+    {
+        "name": "The Burning",
+        "tmdbId": 24124,
+        "mediaType": "movie",
+        "backdropPath": "/hkt9cbyS3gRkiBqc9a8oukd3oXt.jpg"
+    },
+    {
+        "name": "Cannibal Ferox",
+        "tmdbId": 8691,
+        "mediaType": "movie",
+        "backdropPath": "/bM5zSHNVyIdVxrMknkZUOfEJSUB.jpg"
+    },
+    {
+        "name": "The Beyond",
+        "tmdbId": 19204,
+        "mediaType": "movie",
+        "backdropPath": "/ysCpbgA1zxOmkb1IWKzwhTxDxk3.jpg"
+    },
+    {
+        "name": "Maniac",
+        "tmdbId": 27346,
+        "mediaType": "movie",
+        "backdropPath": "/5Lr0oZ9hMikyBN89IgWkdJXraaM.jpg"
+    },
+    {
+        "name": "Cannibal Holocaust",
+        "tmdbId": 8689,
+        "mediaType": "movie",
+        "backdropPath": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg"
+    },
+    {
+        "name": "The Hills Have Eyes",
+        "tmdbId": 12262,
+        "mediaType": "movie",
+        "backdropPath": "/e5ecjQw8AK0e924UIkMOUTxGhMj.jpg"
+    },
+    {
+        "name": "The Texas Chain Saw Massacre",
+        "tmdbId": 30497,
+        "mediaType": "movie",
+        "backdropPath": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg"
+    },
+    {
+        "name": "Mark of the Devil",
+        "tmdbId": 39931,
+        "mediaType": "movie",
+        "backdropPath": "/qO7WHzj41jMuaZIu3zEXZnwndn1.jpg"
+    },
+    {
+        "name": "Goké, Body Snatcher from Hell",
+        "tmdbId": 42628,
+        "mediaType": "movie",
+        "backdropPath": "/n1fqV4yOavgpIkGd8Dl2XeuhCCI.jpg"
+    },
+    {
+        "name": "The Sadist",
+        "tmdbId": 29103,
+        "mediaType": "movie",
+        "backdropPath": "/2nqiZdWmVZ7jnDBtICF78mjMMJJ.jpg"
+    }
+]

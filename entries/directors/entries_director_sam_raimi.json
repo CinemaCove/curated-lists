@@ -1,0 +1,152 @@
+[
+    {
+        "name": "The Happy Valley Kid",
+        "tmdbId": 1465571,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Clockwork",
+        "tmdbId": 1636799,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "It's Murder!",
+        "tmdbId": 1473557,
+        "mediaType": "movie",
+        "backdropPath": "/n5UKsluEoH2cusI1Qcd9s3BbE0E.jpg"
+    },
+    {
+        "name": "Within the Woods",
+        "tmdbId": 2186,
+        "mediaType": "movie",
+        "backdropPath": "/yICXAKJseCtkNLg3xTIvRhYEa8T.jpg"
+    },
+    {
+        "name": "The Evil Dead",
+        "tmdbId": 764,
+        "mediaType": "movie",
+        "backdropPath": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg"
+    },
+    {
+        "name": "Crimewave",
+        "tmdbId": 21627,
+        "mediaType": "movie",
+        "backdropPath": "/xLryKAwhsEKX2YQcYZyhTWeBNGR.jpg"
+    },
+    {
+        "name": "The Sappy Sap",
+        "tmdbId": 202710,
+        "mediaType": "movie",
+        "backdropPath": "/3lKCXeUMmrxO88uDmuUxfUCJuGL.jpg"
+    },
+    {
+        "name": "Evil Dead II",
+        "tmdbId": 765,
+        "mediaType": "movie",
+        "backdropPath": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg"
+    },
+    {
+        "name": "Darkman",
+        "tmdbId": 9556,
+        "mediaType": "movie",
+        "backdropPath": "/AmYRSICb6OjblGlyAEFiJ4cMfKF.jpg"
+    },
+    {
+        "name": "Army of Darkness",
+        "tmdbId": 766,
+        "mediaType": "movie",
+        "backdropPath": "/5RPXs9g0sZ9Woo4pNLxdXdge7tc.jpg"
+    },
+    {
+        "name": "The Quick and the Dead",
+        "tmdbId": 12106,
+        "mediaType": "movie",
+        "backdropPath": "/nl099IgJQdJcTBuXmIzouWXK929.jpg"
+    },
+    {
+        "name": "A Simple Plan",
+        "tmdbId": 10223,
+        "mediaType": "movie",
+        "backdropPath": "/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg"
+    },
+    {
+        "name": "For Love of the Game",
+        "tmdbId": 10390,
+        "mediaType": "movie",
+        "backdropPath": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg"
+    },
+    {
+        "name": "The Gift",
+        "tmdbId": 2046,
+        "mediaType": "movie",
+        "backdropPath": "/qVUbWtSmxtJ9iDvCrQZaiGikbTe.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 557,
+        "mediaType": "movie",
+        "backdropPath": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg"
+    },
+    {
+        "name": "Spider-Man 2",
+        "tmdbId": 558,
+        "mediaType": "movie",
+        "backdropPath": "/faV0HuR6WnQoLrVq3r6mhjaABL9.jpg"
+    },
+    {
+        "name": "Spider-Man 3",
+        "tmdbId": 559,
+        "mediaType": "movie",
+        "backdropPath": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg"
+    },
+    {
+        "name": "Drag Me to Hell",
+        "tmdbId": 16871,
+        "mediaType": "movie",
+        "backdropPath": "/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg"
+    },
+    {
+        "name": "Oz the Great and Powerful",
+        "tmdbId": 68728,
+        "mediaType": "movie",
+        "backdropPath": "/o6TYNmB1CT85j7lmyvSedoybyc9.jpg"
+    },
+    {
+        "name": "Rake",
+        "tmdbId": 50846,
+        "mediaType": "tv",
+        "backdropPath": "/hvYSliOoNPqwshl6Y5MrCGIfN1.jpg"
+    },
+    {
+        "name": "Ash vs Evil Dead",
+        "tmdbId": 62264,
+        "mediaType": "tv",
+        "backdropPath": "/kTllqBdy0vjwoMhvzZPABD3Bo4k.jpg"
+    },
+    {
+        "name": "The Black Ghiandola",
+        "tmdbId": 466696,
+        "mediaType": "movie",
+        "backdropPath": "/cNgVCb6cK3gZpPndNeJulMqrDQX.jpg"
+    },
+    {
+        "name": "50 States of Fright",
+        "tmdbId": 94251,
+        "mediaType": "tv",
+        "backdropPath": "/raHusDB0CEWolsLQP72NuG9LfqU.jpg"
+    },
+    {
+        "name": "Doctor Strange in the Multiverse of Madness",
+        "tmdbId": 453395,
+        "mediaType": "movie",
+        "backdropPath": "/dTn1HGhCuq26IoBq9qKsiYNFxfq.jpg"
+    },
+    {
+        "name": "Send Help",
+        "tmdbId": 1198994,
+        "mediaType": "movie",
+        "backdropPath": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg"
+    }
+]

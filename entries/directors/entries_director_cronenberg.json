@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Transfer",
+        "tmdbId": 237730,
+        "mediaType": "movie",
+        "backdropPath": "/2N7JcTx7QvlEYsxGMgxMuAglmgY.jpg"
+    },
+    {
+        "name": "From the Drain",
+        "tmdbId": 104404,
+        "mediaType": "movie",
+        "backdropPath": "/7OYydiMyh9MIxkO8UPItgEF9oqG.jpg"
+    },
+    {
+        "name": "Stereo (Tile 3B of a CAEE Educational Mosaic)",
+        "tmdbId": 33691,
+        "mediaType": "movie",
+        "backdropPath": "/7pTuDsXVjbYjo4oAS2Q76agg6Mo.jpg"
+    },
+    {
+        "name": "Crimes of the Future",
+        "tmdbId": 27371,
+        "mediaType": "movie",
+        "backdropPath": "/BqKararfhJ7FLqF6AStOe7Qbwd.jpg"
+    },
+    {
+        "name": "Programme X",
+        "tmdbId": 209552,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "Tourrettes",
+        "tmdbId": 813168,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Letter from Michelangelo",
+        "tmdbId": 813173,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Jim Ritchie Sculptor",
+        "tmdbId": 813178,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Fort York",
+        "tmdbId": 813237,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Don Valley",
+        "tmdbId": 813238,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Winter Garden",
+        "tmdbId": 813183,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Scarborough Bluffs",
+        "tmdbId": 813233,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Lakeshore",
+        "tmdbId": 813234,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "In the Dirt",
+        "tmdbId": 813236,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Shivers",
+        "tmdbId": 27429,
+        "mediaType": "movie",
+        "backdropPath": "/hKhsgLfJlIQVa88dZWR7kIEwgbI.jpg"
+    },
+    {
+        "name": "Peep Show",
+        "tmdbId": 12063,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "The Lie Chair",
+        "tmdbId": 1297355,
+        "mediaType": "movie",
+        "backdropPath": "/du1yo7slbwA4LpQ5NabXoeDpsd0.jpg"
+    },
+    {
+        "name": "Teleplay",
+        "tmdbId": 60900,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "The Italian Machine",
+        "tmdbId": 54724,
+        "mediaType": "movie",
+        "backdropPath": "/sZsVGS4it6JZwQlxQgllnFPBnoT.jpg"
+    },
+    {
+        "name": "Rabid",
+        "tmdbId": 29437,
+        "mediaType": "movie",
+        "backdropPath": "/9mMjfUPycaAvb2UJXtdcWiILWrO.jpg"
+    },
+    {
+        "name": "Fast Company",
+        "tmdbId": 38493,
+        "mediaType": "movie",
+        "backdropPath": "/18Mo8zLWsL4uUFMjkZyDQrzhfdj.jpg"
+    },
+    {
+        "name": "The Brood",
+        "tmdbId": 28942,
+        "mediaType": "movie",
+        "backdropPath": "/mDr6XaqC9IKA2j35c24cGdc5a0W.jpg"
+    },
+    {
+        "name": "Scanners",
+        "tmdbId": 9538,
+        "mediaType": "movie",
+        "backdropPath": "/xERUzq8ISc4G1SyXGYHwCh4PdtQ.jpg"
+    },
+    {
+        "name": "Videodrome",
+        "tmdbId": 837,
+        "mediaType": "movie",
+        "backdropPath": "/eBS1nvaQ7BMdsSlkoLyKapf0FEY.jpg"
+    },
+    {
+        "name": "The Dead Zone",
+        "tmdbId": 11336,
+        "mediaType": "movie",
+        "backdropPath": "/icvgQHxrKEDx92VQ5WHiEmEAUKH.jpg"
+    },
+    {
+        "name": "The Fly",
+        "tmdbId": 9426,
+        "mediaType": "movie",
+        "backdropPath": "/cFnv7rB6I9gtZ0eTR7nPgjKNe0Q.jpg"
+    },
+    {
+        "name": "Friday the 13th: The Series",
+        "tmdbId": 2263,
+        "mediaType": "tv",
+        "backdropPath": "/rPzH5zMkQpDQSo9153yQTg0udeq.jpg"
+    },
+    {
+        "name": "Dead Ringers",
+        "tmdbId": 9540,
+        "mediaType": "movie",
+        "backdropPath": "/n3QtJ6tqE0fnf4Qaxb0iujBk0lH.jpg"
+    },
+    {
+        "name": "Scales of Justice",
+        "tmdbId": 197805,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "Naked Lunch",
+        "tmdbId": 2742,
+        "mediaType": "movie",
+        "backdropPath": "/mBteXONDhdVyXRNxj54eMNGNqyT.jpg"
+    },
+    {
+        "name": "M. Butterfly",
+        "tmdbId": 1413,
+        "mediaType": "movie",
+        "backdropPath": "/pxZG68WgGqijh1TjxLEJqTRt5jw.jpg"
+    },
+    {
+        "name": "Crash",
+        "tmdbId": 884,
+        "mediaType": "movie",
+        "backdropPath": "/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg"
+    },
+    {
+        "name": "eXistenZ",
+        "tmdbId": 1946,
+        "mediaType": "movie",
+        "backdropPath": "/epmwIWdQLouFJ8yx55quVvgnTKu.jpg"
+    },
+    {
+        "name": "Camera",
+        "tmdbId": 100607,
+        "mediaType": "movie",
+        "backdropPath": "/kOOSq0dgTCC3uOausmISwtQPWmS.jpg"
+    },
+    {
+        "name": "Preludes",
+        "tmdbId": 993716,
+        "mediaType": "movie",
+        "backdropPath": "/ix3qcVapHwEjLxwaLyCCD0LqJbi.jpg"
+    },
+    {
+        "name": "Spider",
+        "tmdbId": 9613,
+        "mediaType": "movie",
+        "backdropPath": "/zVVYFN9OjiSn43RVYrzgCOu7y6r.jpg"
+    },
+    {
+        "name": "A History of Violence",
+        "tmdbId": 59,
+        "mediaType": "movie",
+        "backdropPath": "/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg"
+    },
+    {
+        "name": "Eastern Promises",
+        "tmdbId": 2252,
+        "mediaType": "movie",
+        "backdropPath": "/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg"
+    },
+    {
+        "name": "To Each His Own Cinema",
+        "tmdbId": 36108,
+        "mediaType": "movie",
+        "backdropPath": "/20vIC3JXCFrsLwv0TpiBbK7IKh2.jpg"
+    },
+    {
+        "name": "A Dangerous Method",
+        "tmdbId": 48231,
+        "mediaType": "movie",
+        "backdropPath": "/iGMz1vJEVZNdBafpE7vrHIj1Quo.jpg"
+    },
+    {
+        "name": "Cosmopolis",
+        "tmdbId": 49014,
+        "mediaType": "movie",
+        "backdropPath": "/g2MHMRGMqBMHAdDmnB2QFynT0WN.jpg"
+    },
+    {
+        "name": "The Nest",
+        "tmdbId": 278995,
+        "mediaType": "movie",
+        "backdropPath": "/its1MQOatIfsiCRC0mMrVQF56Rz.jpg"
+    },
+    {
+        "name": "Maps to the Stars",
+        "tmdbId": 157851,
+        "mediaType": "movie",
+        "backdropPath": "/ytwTVas9vms9dh510TX5i25gV7e.jpg"
+    },
+    {
+        "name": "The Death of David Cronenberg",
+        "tmdbId": 875425,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Crimes of the Future",
+        "tmdbId": 819876,
+        "mediaType": "movie",
+        "backdropPath": "/sqdsuvy8X6Maila4IAc7deMtPAA.jpg"
+    },
+    {
+        "name": "Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection",
+        "tmdbId": 1094746,
+        "mediaType": "movie",
+        "backdropPath": "/oOaCe4UzDbXs5iUennkaVwRPE2U.jpg"
+    },
+    {
+        "name": "The Shrouds",
+        "tmdbId": 970947,
+        "mediaType": "movie",
+        "backdropPath": "/wMgT2Q0WcNLYrS46q9WCHImBCEc.jpg"
+    }
+]

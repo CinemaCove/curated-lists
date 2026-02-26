@@ -14,7 +14,7 @@ export function publishGroupCommand(program: Command): void {
             const accountId = process.env.TMDB_ACCOUNT_ID;
             const mongoUri = process.env.MONGODB_URI;
             const dbName = process.env.MONGODB_DB_NAME ?? 'cinemacove';
-            const collectionName = process.env.MONGODB_GROUPS_COLLECTION ?? 'curatedGroups';
+            const collectionName = process.env.MONGODB_GROUPS_COLLECTION ?? 'curatedgroups';
 
             if (!token || !accountId) {
                 console.error('Error: TMDB credentials not set. Run `curated-lists login` first.');

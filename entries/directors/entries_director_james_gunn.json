@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Hamster PSA",
+        "tmdbId": 899359,
+        "mediaType": "movie",
+        "backdropPath": "/zHs4ErKg0ceMyIUsut2cSNiPodh.jpg"
+    },
+    {
+        "name": "Troma's Edge TV",
+        "tmdbId": 60703,
+        "mediaType": "tv",
+        "backdropPath": ""
+    },
+    {
+        "name": "Slither",
+        "tmdbId": 9035,
+        "mediaType": "movie",
+        "backdropPath": "/kUpD6EnpnQBi3mjYxmiM4xvuh8g.jpg"
+    },
+    {
+        "name": "James Gunn's PG Porn",
+        "tmdbId": 8302,
+        "mediaType": "tv",
+        "backdropPath": "/pZGR4Yuog7TuR9TkLOL1rxmr6PF.jpg"
+    },
+    {
+        "name": "Humanzee!",
+        "tmdbId": 1059523,
+        "mediaType": "movie",
+        "backdropPath": "/c1fHKKfnuA5ccXyzwDrzcPA2XoH.jpg"
+    },
+    {
+        "name": "Sparky & Mikaela",
+        "tmdbId": 567065,
+        "mediaType": "movie",
+        "backdropPath": "/wTQd8e6bGP0blpbNOx1y98zWZya.jpg"
+    },
+    {
+        "name": "Super",
+        "tmdbId": 45132,
+        "mediaType": "movie",
+        "backdropPath": "/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg"
+    },
+    {
+        "name": "Movie 43",
+        "tmdbId": 87818,
+        "mediaType": "movie",
+        "backdropPath": "/9bOjEovR9cdiFUYwZY7fyfNGWyL.jpg"
+    },
+    {
+        "name": "Guardians of the Galaxy",
+        "tmdbId": 118340,
+        "mediaType": "movie",
+        "backdropPath": "/vmBSlRZYKfNdaDZ7wGkrSNbmdMI.jpg"
+    },
+    {
+        "name": "Guardians of the Galaxy Vol. 2",
+        "tmdbId": 283995,
+        "mediaType": "movie",
+        "backdropPath": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg"
+    },
+    {
+        "name": "The Suicide Squad",
+        "tmdbId": 436969,
+        "mediaType": "movie",
+        "backdropPath": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
+    },
+    {
+        "name": "Peacemaker",
+        "tmdbId": 110492,
+        "mediaType": "tv",
+        "backdropPath": "/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg"
+    },
+    {
+        "name": "The Guardians of the Galaxy Holiday Special",
+        "tmdbId": 774752,
+        "mediaType": "movie",
+        "backdropPath": "/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg"
+    },
+    {
+        "name": "Guardians of the Galaxy Vol. 3",
+        "tmdbId": 447365,
+        "mediaType": "movie",
+        "backdropPath": "/hoVj2lYW3i7oMd1o7bPQRZd1lk1.jpg"
+    },
+    {
+        "name": "Superman",
+        "tmdbId": 1061474,
+        "mediaType": "movie",
+        "backdropPath": "/aJDLz1748CIMZkCkyISYe5Hl6I7.jpg"
+    },
+    {
+        "name": "Man of Tomorrow",
+        "tmdbId": 1523140,
+        "mediaType": "movie",
+        "backdropPath": ""
+    }
+]
