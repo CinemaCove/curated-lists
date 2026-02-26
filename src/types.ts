@@ -20,3 +20,17 @@ export interface CuratedListRecord {
     order: number;
     imagePath: string;
 }
+
+export interface CuratedGroupList {
+    name: string;
+    tmdbListId: string;
+    unified: boolean;
+}
+
+export interface CuratedGroup {
+    name: string;
+    icon: string;
+    imagePath?: string;
+    order: number;
+    lists: CuratedGroupList[];
+}

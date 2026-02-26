@@ -1,0 +1,20 @@
+[
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "tmdbId": 120,
+        "mediaType": "movie",
+        "backdropPath": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg"
+    },
+    {
+        "name": "The Lord of the Rings: The Two Towers",
+        "tmdbId": 121,
+        "mediaType": "movie",
+        "backdropPath": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg"
+    },
+    {
+        "name": "The Lord of the Rings: The Return of the King",
+        "tmdbId": 122,
+        "mediaType": "movie",
+        "backdropPath": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
+    }
+]

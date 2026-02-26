@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Jurassic Park",
+        "tmdbId": 329,
+        "mediaType": "movie",
+        "backdropPath": "/alqZDg4DXBpNCVTzRPXe5zkkAXX.jpg"
+    },
+    {
+        "name": "The Lost World: Jurassic Park",
+        "tmdbId": 330,
+        "mediaType": "movie",
+        "backdropPath": "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg"
+    },
+    {
+        "name": "Jurassic Park III",
+        "tmdbId": 331,
+        "mediaType": "movie",
+        "backdropPath": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg"
+    },
+    {
+        "name": "Jurassic World",
+        "tmdbId": 135397,
+        "mediaType": "movie",
+        "backdropPath": "/s5QfDFqRO6sjgPtKkjxD0WqXQef.jpg"
+    },
+    {
+        "name": "Jurassic World: Fallen Kingdom",
+        "tmdbId": 351286,
+        "mediaType": "movie",
+        "backdropPath": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg"
+    },
+    {
+        "name": "Jurassic World Dominion",
+        "tmdbId": 507086,
+        "mediaType": "movie",
+        "backdropPath": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg"
+    },
+    {
+        "name": "Jurassic World Rebirth",
+        "tmdbId": 1234821,
+        "mediaType": "movie",
+        "backdropPath": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg"
+    }
+]

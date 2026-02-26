@@ -14,6 +14,7 @@ import { searchCommand } from './commands/search';
 import { listsCommand } from './commands/lists';
 import { loginCommand } from './commands/login';
 import { publishCommand } from './commands/publish';
+import { publishGroupCommand } from './commands/publish-group';
 
 const program = new Command();
 
@@ -27,6 +28,7 @@ createListCommand(program);
 addToListCommand(program);
 listsCommand(program);
 publishCommand(program);
+publishGroupCommand(program);
 deleteListCommand(program);
 searchCommand(program);
 

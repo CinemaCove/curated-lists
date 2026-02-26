@@ -1,0 +1,152 @@
+[
+    {
+        "name": "The Acolyte",
+        "tmdbId": 114479,
+        "mediaType": "tv",
+        "backdropPath": "/kwronSXO1ogMqHHFvY2eBxfFLdn.jpg"
+    },
+    {
+        "name": "Star Wars: Episode I - The Phantom Menace",
+        "tmdbId": 1893,
+        "mediaType": "movie",
+        "backdropPath": "/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+    },
+    {
+        "name": "Star Wars: Episode II - Attack of the Clones",
+        "tmdbId": 1894,
+        "mediaType": "movie",
+        "backdropPath": "/msYmRFJfXy0zsFd73PAEqdetKpO.jpg"
+    },
+    {
+        "name": "Star Wars: The Clone Wars",
+        "tmdbId": 12180,
+        "mediaType": "movie",
+        "backdropPath": "/eVA4ztLIuPEsokkgQ3NRt9rTRVh.jpg"
+    },
+    {
+        "name": "Star Wars: The Clone Wars",
+        "tmdbId": 4194,
+        "mediaType": "tv",
+        "backdropPath": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg"
+    },
+    {
+        "name": "Star Wars: Tales of the Jedi",
+        "tmdbId": 203085,
+        "mediaType": "tv",
+        "backdropPath": "/vp52Er9JebGn49GG37jFTwx15Lw.jpg"
+    },
+    {
+        "name": "Star Wars: Episode III - Revenge of the Sith",
+        "tmdbId": 1895,
+        "mediaType": "movie",
+        "backdropPath": "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg"
+    },
+    {
+        "name": "Star Wars: Tales of the Empire",
+        "tmdbId": 251091,
+        "mediaType": "tv",
+        "backdropPath": "/sMxOqjwaHHXuBnHkvVyzqcOPMVF.jpg"
+    },
+    {
+        "name": "Star Wars: Tales of the Underworld",
+        "tmdbId": 288055,
+        "mediaType": "tv",
+        "backdropPath": "/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg"
+    },
+    {
+        "name": "Star Wars: The Bad Batch",
+        "tmdbId": 105971,
+        "mediaType": "tv",
+        "backdropPath": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg"
+    },
+    {
+        "name": "Solo: A Star Wars Story",
+        "tmdbId": 348350,
+        "mediaType": "movie",
+        "backdropPath": "/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "tmdbId": 92830,
+        "mediaType": "tv",
+        "backdropPath": "/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
+    },
+    {
+        "name": "Andor",
+        "tmdbId": 83867,
+        "mediaType": "tv",
+        "backdropPath": "/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg"
+    },
+    {
+        "name": "Star Wars Rebels",
+        "tmdbId": 60554,
+        "mediaType": "tv",
+        "backdropPath": "/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg"
+    },
+    {
+        "name": "Rogue One: A Star Wars Story",
+        "tmdbId": 330459,
+        "mediaType": "movie",
+        "backdropPath": "/8mTHUXS3vwub5ZlovQkZ8veQUah.jpg"
+    },
+    {
+        "name": "Star Wars",
+        "tmdbId": 11,
+        "mediaType": "movie",
+        "backdropPath": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg"
+    },
+    {
+        "name": "The Empire Strikes Back",
+        "tmdbId": 1891,
+        "mediaType": "movie",
+        "backdropPath": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg"
+    },
+    {
+        "name": "Return of the Jedi",
+        "tmdbId": 1892,
+        "mediaType": "movie",
+        "backdropPath": "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+    },
+    {
+        "name": "The Mandalorian",
+        "tmdbId": 82856,
+        "mediaType": "tv",
+        "backdropPath": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg"
+    },
+    {
+        "name": "The Book of Boba Fett",
+        "tmdbId": 115036,
+        "mediaType": "tv",
+        "backdropPath": "/oMWnpUUCeIqvTdP3IYZ0JnPdrmU.jpg"
+    },
+    {
+        "name": "Ahsoka",
+        "tmdbId": 114461,
+        "mediaType": "tv",
+        "backdropPath": "/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg"
+    },
+    {
+        "name": "Skeleton Crew",
+        "tmdbId": 19969,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "Star Wars Resistance",
+        "tmdbId": 79093,
+        "mediaType": "tv",
+        "backdropPath": "/Ad2y46YKP2u81bsR4axajbbJKwS.jpg"
+    },
+    {
+        "name": "Star Wars: The Force Awakens",
+        "tmdbId": 140607,
+        "mediaType": "movie",
+        "backdropPath": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg"
+    },
+    {
+        "name": "Star Wars: The Last Jedi",
+        "tmdbId": 181808,
+        "mediaType": "movie",
+        "backdropPath": "/bIUaCtWaRgd78SnoHJDI8TNf7Sd.jpg"
+    }
+]

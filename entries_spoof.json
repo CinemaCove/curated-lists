@@ -131,7 +131,7 @@
     },
     {
         "name": "Scary Movie",
-        "tmdbId": 4242,
+        "tmdbId": 4247,
         "mediaType": "movie"
     },
     {
@@ -503,12 +503,6 @@
         "tmdbId": 26141,
         "mediaType": "movie",
         "backdropPath": "/mTJHunR5Fr62OsPcTrPrw3YWTAS.jpg"
-    },
-    {
-        "name": "Silence Of The Hams",
-        "tmdbId": 418158,
-        "mediaType": "movie",
-        "backdropPath": ""
     },
     {
         "name": "Mystery Men",
@@ -967,15 +961,15 @@
         "backdropPath": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg"
     },
     {
-        "name": "Scary Movie",
-        "tmdbId": 4247,
-        "mediaType": "movie",
-        "backdropPath": "/uHZRTGMFb1RLmgWcqlIOZsGbDCT.jpg"
-    },
-    {
         "name": "Black Dynamite",
         "tmdbId": 24804,
         "mediaType": "movie",
         "backdropPath": "/gpcJuvH1tRWfdGv6ysWVRN3EZXL.jpg"
+    },
+    {
+        "name": "The Silence of the Hams",
+        "tmdbId": 10450,
+        "mediaType": "movie",
+        "backdropPath": "/qjW4nssdUBPCoIxGHofSG3g3nfT.jpg"
     }
 ]
