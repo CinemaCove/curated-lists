@@ -8,6 +8,7 @@ import { Command } from 'commander';
 dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 import { addToListCommand } from './commands/add-to-list';
+import { clearListCommand } from './commands/clear-list';
 import { createListCommand } from './commands/create-list';
 import { deleteListCommand } from './commands/delete-list';
 import { searchCommand } from './commands/search';
@@ -30,6 +31,7 @@ listsCommand(program);
 publishCommand(program);
 publishGroupCommand(program);
 deleteListCommand(program);
+clearListCommand(program);
 searchCommand(program);
 
 program.parseAsync().catch(err => {

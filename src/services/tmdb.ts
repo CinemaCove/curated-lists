@@ -105,6 +105,49 @@ export async function deleteList(userToken: string, listId: number): Promise<voi
     await client.list.delete(listId);
 }
 
+export interface ListItem {
+    tmdbId: number;
+    mediaType: 'movie' | 'tv';
+}
+
+export async function getListItems(userToken: string, listId: number): Promise<ListItem[]> {
+    const all: ListItem[] = [];
+    let page = 1;
+    let totalPages = 1;
+
+    do {
+        const res = await fetch(`https://api.themoviedb.org/4/list/${listId}?page=${page}`, {
+            headers: { Authorization: `Bearer ${userToken}` },
+        });
+        if (!res.ok) throw new Error(`TMDB ${res.status} fetching list ${listId}`);
+        const data = (await res.json()) as {
+            results: { id: number; media_type: string }[];
+            total_pages: number;
+        };
+        for (const item of data.results) {
+            all.push({ tmdbId: item.id, mediaType: item.media_type === 'tv' ? 'tv' : 'movie' });
+        }
+        totalPages = data.total_pages ?? 1;
+        page++;
+    } while (page <= totalPages);
+
+    return all;
+}
+
+export async function removeItemsFromList(
+    userToken: string,
+    listId: number,
+    items: ListItem[]
+): Promise<void> {
+    const client = new TmdbClient(userToken);
+    await client.list.removeItems(listId, {
+        items: items.map(item => ({
+            mediaType: item.mediaType === 'tv' ? MediaType.TvShow : MediaType.Movie,
+            mediaId: item.tmdbId,
+        })),
+    });
+}
+
 // ── Search ──────────────────────────────────────────────────────────────────
 
 export interface SearchResult {
