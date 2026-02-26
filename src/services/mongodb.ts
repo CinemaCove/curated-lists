@@ -48,7 +48,7 @@ export async function publishGroup(
     try {
         await client.connect();
         const col = client.db(dbName).collection(collectionName);
-        await col.updateOne({ name: record.name }, { $set: record }, { upsert: true });
+        await col.updateOne({ name: record.name }, { $set: record, $inc: { changeVersion: 1 } }, { upsert: true });
     } finally {
         await client.close();
     }
@@ -64,7 +64,7 @@ export async function publishCuratedList(
     try {
         await client.connect();
         const col = client.db(dbName).collection(collectionName);
-        await col.updateOne({ tmdbListId: record.tmdbListId }, { $set: record }, { upsert: true });
+        await col.updateOne({ tmdbListId: record.tmdbListId }, { $set: record, $inc: { changeVersion: 1 } }, { upsert: true });
     } finally {
         await client.close();
     }
