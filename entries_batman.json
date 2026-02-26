@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Batman",
+        "tmdbId": 125249,
+        "mediaType": "movie",
+        "backdropPath": "/bHxJA9rllKF2jhb11ARAwZJYSp6.jpg"
+    },
+    {
+        "name": "Batman and Robin",
+        "tmdbId": 93560,
+        "mediaType": "movie",
+        "backdropPath": "/wYGqHWbg4h5Jj8AB7EYy62gcvlE.jpg"
+    },
+    {
+        "name": "Batman",
+        "tmdbId": 2287,
+        "mediaType": "tv",
+        "backdropPath": "/yGKZsVJ8avlUpk6pvKzakgQ7TV9.jpg"
+    },
+    {
+        "name": "Batman",
+        "tmdbId": 2661,
+        "mediaType": "movie",
+        "backdropPath": "/s2JJkEcVz1Q4uLnNhWZwCcBjqMr.jpg"
+    },
+    {
+        "name": "The Adventures of Batman",
+        "tmdbId": 31749,
+        "mediaType": "tv",
+        "backdropPath": "/uq6KVWHM0uUzTb8IEi0a88LKnzI.jpg"
+    },
+    {
+        "name": "The Adventures of Batman",
+        "tmdbId": 31749,
+        "mediaType": "tv",
+        "backdropPath": "/uq6KVWHM0uUzTb8IEi0a88LKnzI.jpg"
+    },
+    {
+        "name": "The New Adventures of Batman",
+        "tmdbId": 10502,
+        "mediaType": "tv",
+        "backdropPath": "/jPIcwtfO2JNm3c4zhGZV2z7Nb7U.jpg"
+    },
+    {
+        "name": "Batman",
+        "tmdbId": 268,
+        "mediaType": "movie",
+        "backdropPath": "/zlsaQEE26TS34ziXAiNIAqa0MLX.jpg"
+    },
+    {
+        "name": "Batman Returns",
+        "tmdbId": 364,
+        "mediaType": "movie",
+        "backdropPath": "/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg"
+    },
+    {
+        "name": "Batman: The Animated Series",
+        "tmdbId": 2098,
+        "mediaType": "tv",
+        "backdropPath": "/jszr5nLTaK946h85MBl1K2dkvKN.jpg"
+    },
+    {
+        "name": "Batman: Mask of the Phantasm",
+        "tmdbId": 14919,
+        "mediaType": "movie",
+        "backdropPath": "/cMUuAgVsMWOCawXonZ4D1dSMd6h.jpg"
+    },
+    {
+        "name": "Batman Forever",
+        "tmdbId": 414,
+        "mediaType": "movie",
+        "backdropPath": "/snlu32RmjldF9b068UURJg8sQtn.jpg"
+    },
+    {
+        "name": "Batman & Robin",
+        "tmdbId": 415,
+        "mediaType": "movie",
+        "backdropPath": "/rpOqHZMNIaI4qP4r7nw1B7oA0mx.jpg"
+    },
+    {
+        "name": "The New Batman Adventures",
+        "tmdbId": 4625,
+        "mediaType": "tv",
+        "backdropPath": "/efGjtQtM31xPZAW8ul449wsogwl.jpg"
+    },
+    {
+        "name": "Batman Beyond",
+        "tmdbId": 513,
+        "mediaType": "tv",
+        "backdropPath": "/vOVcZwpfWtLSdCxZZjWgrphFxhY.jpg"
+    },
+    {
+        "name": "The Batman",
+        "tmdbId": 2022,
+        "mediaType": "tv",
+        "backdropPath": "/ArED6kTw15Ka5GCvvfXFKanvqsR.jpg"
+    },
+    {
+        "name": "Batman Begins",
+        "tmdbId": 272,
+        "mediaType": "movie",
+        "backdropPath": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg"
+    },
+    {
+        "name": "The Dark Knight",
+        "tmdbId": 155,
+        "mediaType": "movie",
+        "backdropPath": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg"
+    },
+    {
+        "name": "Batman: The Brave and the Bold",
+        "tmdbId": 15804,
+        "mediaType": "tv",
+        "backdropPath": "/1IYqPvtwbvbe4lyFXP6P5OCNdtO.jpg"
+    },
+    {
+        "name": "The Dark Knight Rises",
+        "tmdbId": 49026,
+        "mediaType": "movie",
+        "backdropPath": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg"
+    },
+    {
+        "name": "Beware the Batman",
+        "tmdbId": 41676,
+        "mediaType": "tv",
+        "backdropPath": "/tFwV1OvNU0yWxEjt7YIsfzruuFn.jpg"
+    },
+    {
+        "name": "Batman v Superman: Dawn of Justice",
+        "tmdbId": 209112,
+        "mediaType": "movie",
+        "backdropPath": "/mwuP3Ah8b7SKnmSCk8EaQw7jrEq.jpg"
+    },
+    {
+        "name": "The Lego Batman Movie",
+        "tmdbId": 324849,
+        "mediaType": "movie",
+        "backdropPath": "/eoMushgujydxFplE9yPZ54lwOvo.jpg"
+    },
+    {
+        "name": "The Batman",
+        "tmdbId": 414906,
+        "mediaType": "movie",
+        "backdropPath": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
+    },
+    {
+        "name": "Batwheels",
+        "tmdbId": 155780,
+        "mediaType": "tv",
+        "backdropPath": "/tRo9pMhE2OOrePz4Pw3eirPBnxr.jpg"
+    },
+    {
+        "name": "Batman: Caped Crusader",
+        "tmdbId": 125909,
+        "mediaType": "tv",
+        "backdropPath": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
+    }
+]

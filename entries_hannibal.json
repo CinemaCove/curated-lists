@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Manhunter",
+        "tmdbId": 11454,
+        "mediaType": "movie",
+        "backdropPath": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg"
+    },
+    {
+        "name": "The Silence of the Lambs",
+        "tmdbId": 274,
+        "mediaType": "movie",
+        "backdropPath": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg"
+    },
+    {
+        "name": "Hannibal",
+        "tmdbId": 9740,
+        "mediaType": "movie",
+        "backdropPath": "/1eMvglbY3wpl4nl09eYLtfstV2I.jpg"
+    },
+    {
+        "name": "Red Dragon",
+        "tmdbId": 9533,
+        "mediaType": "movie",
+        "backdropPath": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg"
+    },
+    {
+        "name": "Hannibal Rising",
+        "tmdbId": 1248,
+        "mediaType": "movie",
+        "backdropPath": "/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg"
+    },
+    {
+        "name": "Hannibal",
+        "tmdbId": 40008,
+        "mediaType": "tv",
+        "backdropPath": "/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg"
+    }
+]

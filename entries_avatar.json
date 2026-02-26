@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Avatar",
+        "tmdbId": 19995,
+        "mediaType": "movie",
+        "backdropPath": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
+    },
+    {
+        "name": "Avatar: The Way of Water",
+        "tmdbId": 76600,
+        "mediaType": "movie",
+        "backdropPath": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg"
+    },
+    {
+        "name": "Avatar: Fire and Ash",
+        "tmdbId": 83533,
+        "mediaType": "movie",
+        "backdropPath": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg"
+    },
+    {
+        "name": "Avatar 4",
+        "tmdbId": 216527,
+        "mediaType": "movie",
+        "backdropPath": ""
+    }
+]

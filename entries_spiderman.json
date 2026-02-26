@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Spider-Man",
+        "tmdbId": 1482,
+        "mediaType": "tv",
+        "backdropPath": "/wpYfCv21lCDefNPo9lA2AJCXaYK.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 225914,
+        "mediaType": "movie",
+        "backdropPath": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg"
+    },
+    {
+        "name": "Spider-Man Strikes Back",
+        "tmdbId": 225925,
+        "mediaType": "movie",
+        "backdropPath": "/aKEINUeg3y324PxOwZfwM0uWmk7.jpg"
+    },
+    {
+        "name": "Japanese Spiderman",
+        "tmdbId": 2640,
+        "mediaType": "tv",
+        "backdropPath": "/yhDHgYKaZiX8XEyWJFTOBwKaVdN.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 3973,
+        "mediaType": "tv",
+        "backdropPath": "/gQENev4ojlGQd05ic9SiXlaXSzM.jpg"
+    },
+    {
+        "name": "Spider-Man and His Amazing Friends",
+        "tmdbId": 1269,
+        "mediaType": "tv",
+        "backdropPath": "/7We1GSpHZ2jqhQPcGCtiJFJbTeK.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 888,
+        "mediaType": "tv",
+        "backdropPath": "/lN09YohDmsqyljNzykQxV0quvK.jpg"
+    },
+    {
+        "name": "Spider-Man Unlimited",
+        "tmdbId": 10079,
+        "mediaType": "tv",
+        "backdropPath": "/z0szinMWegbR2cH9zIxaBKy2C5b.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 557,
+        "mediaType": "movie",
+        "backdropPath": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg"
+    },
+    {
+        "name": "Spider-Man: The New Animated Series",
+        "tmdbId": 1664,
+        "mediaType": "tv",
+        "backdropPath": "/nVHovBi2yqZAYW17273ytA8SE7c.jpg"
+    },
+    {
+        "name": "Spider-Man 2",
+        "tmdbId": 558,
+        "mediaType": "movie",
+        "backdropPath": "/faV0HuR6WnQoLrVq3r6mhjaABL9.jpg"
+    },
+    {
+        "name": "Spider-Man 3",
+        "tmdbId": 559,
+        "mediaType": "movie",
+        "backdropPath": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg"
+    },
+    {
+        "name": "The Spectacular Spider-Man",
+        "tmdbId": 3854,
+        "mediaType": "tv",
+        "backdropPath": "/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg"
+    },
+    {
+        "name": "The Amazing Spider-Man",
+        "tmdbId": 1930,
+        "mediaType": "movie",
+        "backdropPath": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg"
+    },
+    {
+        "name": "Marvel's Ultimate Spider-Man",
+        "tmdbId": 34391,
+        "mediaType": "tv",
+        "backdropPath": "/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg"
+    },
+    {
+        "name": "The Amazing Spider-Man 2",
+        "tmdbId": 102382,
+        "mediaType": "movie",
+        "backdropPath": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 888,
+        "mediaType": "tv",
+        "backdropPath": "/lN09YohDmsqyljNzykQxV0quvK.jpg"
+    },
+    {
+        "name": "Spider-Man: Homecoming",
+        "tmdbId": 315635,
+        "mediaType": "movie",
+        "backdropPath": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg"
+    },
+    {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "tmdbId": 324857,
+        "mediaType": "movie",
+        "backdropPath": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg"
+    },
+    {
+        "name": "Spider-Man: Far From Home",
+        "tmdbId": 429617,
+        "mediaType": "movie",
+        "backdropPath": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg"
+    },
+    {
+        "name": "Spidey and His Amazing Friends",
+        "tmdbId": 127635,
+        "mediaType": "tv",
+        "backdropPath": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg"
+    },
+    {
+        "name": "Spider-Man: No Way Home",
+        "tmdbId": 634649,
+        "mediaType": "movie",
+        "backdropPath": "/nqUThBjou0TAWXu93Q4SNFpgqai.jpg"
+    },
+    {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "tmdbId": 569094,
+        "mediaType": "movie",
+        "backdropPath": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg"
+    },
+    {
+        "name": "Your Friendly Neighborhood Spider-Man",
+        "tmdbId": 138503,
+        "mediaType": "tv",
+        "backdropPath": "/kkT2B2gmynoh9kZMo1gromLNeqy.jpg"
+    },
+    {
+        "name": "Marvel's Spider-Man",
+        "tmdbId": 72705,
+        "mediaType": "tv",
+        "backdropPath": "/qDum1yhNftUMaIB3pPiZ7PLsIto.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "tmdbId": 3973,
+        "mediaType": "tv",
+        "backdropPath": "/gQENev4ojlGQd05ic9SiXlaXSzM.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "The Evil Dead",
+        "tmdbId": 764,
+        "mediaType": "movie",
+        "backdropPath": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg"
+    },
+    {
+        "name": "Evil Dead II",
+        "tmdbId": 765,
+        "mediaType": "movie",
+        "backdropPath": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg"
+    },
+    {
+        "name": "Army of Darkness",
+        "tmdbId": 766,
+        "mediaType": "movie",
+        "backdropPath": "/5RPXs9g0sZ9Woo4pNLxdXdge7tc.jpg"
+    },
+    {
+        "name": "Evil Dead",
+        "tmdbId": 109428,
+        "mediaType": "movie",
+        "backdropPath": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg"
+    },
+    {
+        "name": "Ash vs Evil Dead",
+        "tmdbId": 62264,
+        "mediaType": "tv",
+        "backdropPath": "/kTllqBdy0vjwoMhvzZPABD3Bo4k.jpg"
+    },
+    {
+        "name": "Evil Dead Rise",
+        "tmdbId": 713704,
+        "mediaType": "movie",
+        "backdropPath": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg"
+    }
+]

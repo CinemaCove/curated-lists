@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Scream",
+        "tmdbId": 4232,
+        "mediaType": "movie",
+        "backdropPath": "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg"
+    },
+    {
+        "name": "Scream 2",
+        "tmdbId": 4233,
+        "mediaType": "movie",
+        "backdropPath": "/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg"
+    },
+    {
+        "name": "Scream 3",
+        "tmdbId": 4234,
+        "mediaType": "movie",
+        "backdropPath": "/AbFWty0o5nKGo4iLJaGRgqFtC8W.jpg"
+    },
+    {
+        "name": "Scream 4",
+        "tmdbId": 41446,
+        "mediaType": "movie",
+        "backdropPath": "/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg"
+    },
+    {
+        "name": "Scream: The TV Series",
+        "tmdbId": 62823,
+        "mediaType": "tv",
+        "backdropPath": "/gCo9Vcare7WQBKYsAn5rOAcFnP8.jpg"
+    },
+    {
+        "name": "Scream",
+        "tmdbId": 646385,
+        "mediaType": "movie",
+        "backdropPath": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg"
+    },
+    {
+        "name": "Scream VI",
+        "tmdbId": 934433,
+        "mediaType": "movie",
+        "backdropPath": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg"
+    }
+]

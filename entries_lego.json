@@ -1,0 +1,506 @@
+[
+    {
+        "name": "A LEGO Brickumentary",
+        "tmdbId": 251471,
+        "mediaType": "movie",
+        "backdropPath": "/oAiqaBzPB3wsfvplA4PHpaNpB9n.jpg"
+    },
+    {
+        "name": "Bionicle: Mask of Light",
+        "tmdbId": 19325,
+        "mediaType": "movie",
+        "backdropPath": "/iNguJxLdfL1xxGXMt1xaHiCD1jb.jpg"
+    },
+    {
+        "name": "Bionicle 2: Legends of Metru Nui",
+        "tmdbId": 21379,
+        "mediaType": "movie",
+        "backdropPath": "/114zi9u9mFMw9RserKsuWXmeiGq.jpg"
+    },
+    {
+        "name": "Bionicle 3: Web of Shadows",
+        "tmdbId": 18224,
+        "mediaType": "movie",
+        "backdropPath": "/fxtcvOO4mczGHsbLn8AGNJSuUI3.jpg"
+    },
+    {
+        "name": "Bionicle: The Legend Reborn",
+        "tmdbId": 22259,
+        "mediaType": "movie",
+        "backdropPath": "/wLRFKF6Ysy8JtAoEB26SkVd0n6l.jpg"
+    },
+    {
+        "name": "Galidor: Defenders of the Outer Dimension",
+        "tmdbId": 29901,
+        "mediaType": "tv",
+        "backdropPath": "/k59hBUmF4nadU4AYERNCscg8ivZ.jpg"
+    },
+    {
+        "name": "LEGO: The Adventures of Clutch Powers",
+        "tmdbId": 33427,
+        "mediaType": "movie",
+        "backdropPath": "/lb5uVAloA8HuzalihdI3DtHk02D.jpg"
+    },
+    {
+        "name": "LEGO Batman: The Movie - DC Super Heroes Unite",
+        "tmdbId": 177271,
+        "mediaType": "movie",
+        "backdropPath": "/74Klbuai5co2lx0HpuUqEhJs59Q.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "tmdbId": 300424,
+        "mediaType": "movie",
+        "backdropPath": "/zRJqGtOGS6PRYdEtH69XQmIlQQc.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+        "tmdbId": 322456,
+        "mediaType": "movie",
+        "backdropPath": "/pbUhiefOhOFaaK06UorRy2rvaGT.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+        "tmdbId": 353595,
+        "mediaType": "movie",
+        "backdropPath": "/5XNEf3tYfKuu1nHlqffdoyiXCtQ.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Justice League - Cosmic Clash",
+        "tmdbId": 382512,
+        "mediaType": "movie",
+        "backdropPath": "/p9yuxzkVrbw7mqsf9zl5hgQUsFJ.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout",
+        "tmdbId": 396330,
+        "mediaType": "movie",
+        "backdropPath": "/heHlmq6MPp5SdZSvUApCEXDfOBs.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: The Flash",
+        "tmdbId": 504997,
+        "mediaType": "movie",
+        "backdropPath": "/uSVXTWbdPPpiecRlGvIZrz9gc8Q.jpg"
+    },
+    {
+        "name": "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis",
+        "tmdbId": 513736,
+        "mediaType": "movie",
+        "backdropPath": "/5LCwGrZM0GtpRZdSnTSX63AYuFG.jpg"
+    },
+    {
+        "name": "LEGO DC Super Hero Girls: Brain Drain",
+        "tmdbId": 460135,
+        "mediaType": "movie",
+        "backdropPath": "/4iKsPyyKyoeK30y25qMzR1X7XnJ.jpg"
+    },
+    {
+        "name": "LEGO DC Super Hero Girls: Super-Villain High",
+        "tmdbId": 506734,
+        "mediaType": "movie",
+        "backdropPath": "/y8WCbi6eLbrqNa5zWD5sOzmdXnv.jpg"
+    },
+    {
+        "name": "LEGO DC Super Hero Girls: Galactic Wonder",
+        "tmdbId": 1081412,
+        "mediaType": "movie",
+        "backdropPath": "/xaygHYNKqCrfxOFi81k50CtxuSG.jpg"
+    },
+    {
+        "name": "LEGO DC Batman: Family Matters",
+        "tmdbId": 602307,
+        "mediaType": "movie",
+        "backdropPath": "/sreACNpiCB8SxGVINQR5mY3Y4tp.jpg"
+    },
+    {
+        "name": "LEGO DC: Shazam! Magic and Monsters",
+        "tmdbId": 690369,
+        "mediaType": "movie",
+        "backdropPath": "/kBkxxGjVlxA8sjzTAhiW2drk0JE.jpg"
+    },
+    {
+        "name": "LEGO Marvel Super Heroes: Maximum Overload",
+        "tmdbId": 763861,
+        "mediaType": "movie",
+        "backdropPath": "/g6517HyIuqqB8go3A3DzktjVyLF.jpg"
+    },
+    {
+        "name": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+        "tmdbId": 368304,
+        "mediaType": "movie",
+        "backdropPath": "/rGGRv7XXpDBVGD2BtbKWENfZOkf.jpg"
+    },
+    {
+        "name": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
+        "tmdbId": 509080,
+        "mediaType": "movie",
+        "backdropPath": "/hkllv8JmO3UuRNKSiIfks5plhgi.jpg"
+    },
+    {
+        "name": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+        "tmdbId": 528222,
+        "mediaType": "movie",
+        "backdropPath": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg"
+    },
+    {
+        "name": "LEGO Marvel Spider-Man: Vexed by Venom",
+        "tmdbId": 622230,
+        "mediaType": "movie",
+        "backdropPath": "/EXJrCRBYAPffNuMQbX7irsbrRn.jpg"
+    },
+    {
+        "name": "LEGO Marvel Avengers: Climate Conundrum",
+        "tmdbId": 112851,
+        "mediaType": "tv",
+        "backdropPath": "/eToeY9TLq4xd4kOLnuYFccH0S3H.jpg"
+    },
+    {
+        "name": "LEGO Marvel Avengers: Loki in Training",
+        "tmdbId": 899249,
+        "mediaType": "movie",
+        "backdropPath": "/8q7wYWpD7WKl1GRBwe3svNjfxFk.jpg"
+    },
+    {
+        "name": "LEGO Marvel Avengers: Time Twisted",
+        "tmdbId": 940543,
+        "mediaType": "movie",
+        "backdropPath": "/fYVwmnRDCGQIpKA0QpzIEkczSes.jpg"
+    },
+    {
+        "name": "LEGO Marvel Avengers: Mission Demolition",
+        "tmdbId": 1359227,
+        "mediaType": "movie",
+        "backdropPath": "/Al127H6f1RXpESdg0MGNL2g8mzO.jpg"
+    },
+    {
+        "name": "LEGO Marvel Avengers: Code Red",
+        "tmdbId": 1154598,
+        "mediaType": "movie",
+        "backdropPath": "/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: The Quest for R2-D2",
+        "tmdbId": 81233,
+        "mediaType": "movie",
+        "backdropPath": "/a3v1rfjMUxMX7cgy5ytwYHIToVt.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: The Padawan Menace",
+        "tmdbId": 70608,
+        "mediaType": "movie",
+        "backdropPath": "/hVl0qfLZ5loznDgQ0HxCTZqvZhz.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: The Empire Strikes Out",
+        "tmdbId": 136406,
+        "mediaType": "movie",
+        "backdropPath": "/aM1dP91YFVPsgq1WG8vMwip9zLe.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: Revenge of The Brick",
+        "tmdbId": 81234,
+        "mediaType": "movie",
+        "backdropPath": "/lIBVVzPzILziUujRLaQwqrSTeeP.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: Bombad Bounty",
+        "tmdbId": 79158,
+        "mediaType": "movie",
+        "backdropPath": "/jTB8BKStGgIktED2yVMA6U6mppl.jpg"
+    },
+    {
+        "name": "LEGO Star Wars Holiday Special",
+        "tmdbId": 732670,
+        "mediaType": "movie",
+        "backdropPath": "/ucEQXe6wPpPhgcJh4oXOAvX1lnb.jpg"
+    },
+    {
+        "name": "LEGO Star Wars Terrifying Tales",
+        "tmdbId": 857702,
+        "mediaType": "movie",
+        "backdropPath": "/f53Jujiap580mgfefID0T0g2e17.jpg"
+    },
+    {
+        "name": "LEGO Star Wars Summer Vacation",
+        "tmdbId": 980804,
+        "mediaType": "movie",
+        "backdropPath": "/jhmGJmPcuAhF2ccuKluYlLxnyeP.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: The Yoda Chronicles",
+        "tmdbId": 61513,
+        "mediaType": "tv",
+        "backdropPath": "/suuwh56OjrePO9HQw3VeLTaXGrK.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: Droid Tales",
+        "tmdbId": 63722,
+        "mediaType": "tv",
+        "backdropPath": "/4hEdTuBLyKGcl6LO6ctKKucjLgT.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: The Freemaker Adventures",
+        "tmdbId": 66837,
+        "mediaType": "tv",
+        "backdropPath": "/ruia2cz93lpAZ55ri3Jk1ZPUZVS.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: All-Stars",
+        "tmdbId": 83558,
+        "mediaType": "tv",
+        "backdropPath": "/kQO87aSNVhcOgIfEPQIY24bGWh3.jpg"
+    },
+    {
+        "name": "LEGO Star Wars: Rebuild the Galaxy",
+        "tmdbId": 253760,
+        "mediaType": "tv",
+        "backdropPath": "/d9rVKhKKBDNykNFQZHZFl6yhenU.jpg"
+    },
+    {
+        "name": "The Lego Movie",
+        "tmdbId": 137106,
+        "mediaType": "movie",
+        "backdropPath": "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg"
+    },
+    {
+        "name": "The Lego Batman Movie",
+        "tmdbId": 324849,
+        "mediaType": "movie",
+        "backdropPath": "/eoMushgujydxFplE9yPZ54lwOvo.jpg"
+    },
+    {
+        "name": "The Lego Ninjago Movie",
+        "tmdbId": 274862,
+        "mediaType": "movie",
+        "backdropPath": "/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg"
+    },
+    {
+        "name": "The Lego Movie 2: The Second Part",
+        "tmdbId": 280217,
+        "mediaType": "movie",
+        "backdropPath": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg"
+    },
+    {
+        "name": "Ninjago: Masters of Spinjitzu",
+        "tmdbId": 38693,
+        "mediaType": "tv",
+        "backdropPath": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg"
+    },
+    {
+        "name": "Ninjago: Masters of Spinjitzu - Day of the Departed",
+        "tmdbId": 425104,
+        "mediaType": "movie",
+        "backdropPath": "/5Mx9bOqNN1aXokwwzKam2qiw2cY.jpg"
+    },
+    {
+        "name": "LEGO Ninjago: Dragons Rising",
+        "tmdbId": 212989,
+        "mediaType": "tv",
+        "backdropPath": "/4vubgrPvqDKNFP1kNvHpd3do9hd.jpg"
+    },
+    {
+        "name": "LEGO Legends of Chima",
+        "tmdbId": 57780,
+        "mediaType": "tv",
+        "backdropPath": "/qmSyzVATB6r71yEsFSiraMP9QPg.jpg"
+    },
+    {
+        "name": "LEGO Nexo Knights",
+        "tmdbId": 65858,
+        "mediaType": "tv",
+        "backdropPath": "/6eWhYRuA381fHMXzovXjo3sEtkS.jpg"
+    },
+    {
+        "name": "LEGO Elves",
+        "tmdbId": 70059,
+        "mediaType": "tv",
+        "backdropPath": "/53AByhcNxGnTZJh83XVitrhDrvR.jpg"
+    },
+    {
+        "name": "UniKitty!",
+        "tmdbId": 74739,
+        "mediaType": "tv",
+        "backdropPath": "/hVlRg8S1MBRIJaNzlq98ajb7HE.jpg"
+    },
+    {
+        "name": "LEGO Hidden Side",
+        "tmdbId": 119312,
+        "mediaType": "tv",
+        "backdropPath": "/yE4SrS6VLHNy7GAOBeZIVyi2O4B.jpg"
+    },
+    {
+        "name": "LEGO Monkie Kid",
+        "tmdbId": 106251,
+        "mediaType": "tv",
+        "backdropPath": "/xN9waTugj6Kn9sTrFw2buEUyply.jpg"
+    },
+    {
+        "name": "LEGO Monkie Kid: A Hero Is Born",
+        "tmdbId": 1316288,
+        "mediaType": "movie",
+        "backdropPath": "/7PLFTX5UEv1JCsi3G14aZIKqo7B.jpg"
+    },
+    {
+        "name": "Lego Monkie Kid: Revenge of the Spider Queen",
+        "tmdbId": 1415510,
+        "mediaType": "movie",
+        "backdropPath": ""
+    },
+    {
+        "name": "LEGO Monkie Kid: The Emperor's Wrath",
+        "tmdbId": 1148396,
+        "mediaType": "movie",
+        "backdropPath": "/qUAhvbHsnPEfmBoqxnmz3gwAqW1.jpg"
+    },
+    {
+        "name": "LEGO Monkie Kid: Embrace Your Destiny",
+        "tmdbId": 1148383,
+        "mediaType": "movie",
+        "backdropPath": "/8Edv7clA9uUx4lkf1fxQSX8HM36.jpg"
+    },
+    {
+        "name": "LEGO City Adventures",
+        "tmdbId": 94107,
+        "mediaType": "tv",
+        "backdropPath": "/mZW1kOVgsKvkna2f3rE4LiDit6A.jpg"
+    },
+    {
+        "name": "LEGO DREAMZzz",
+        "tmdbId": 225320,
+        "mediaType": "tv",
+        "backdropPath": "/jqW1FO68dqd9UtGfkF5XFF6w6oZ.jpg"
+    },
+    {
+        "name": "LEGO Friends: The Next Chapter",
+        "tmdbId": 218695,
+        "mediaType": "tv",
+        "backdropPath": "/qXyL3bljSJK99mPaacng2ZYRUjM.jpg"
+    },
+    {
+        "name": "LEGO Friends: Girlz 4 Life",
+        "tmdbId": 378858,
+        "mediaType": "movie",
+        "backdropPath": "/higsxJDg940kU2fOLWyHT5OgEe0.jpg"
+    },
+    {
+        "name": "LEGO Friends: Girls on a Mission",
+        "tmdbId": 87547,
+        "mediaType": "tv",
+        "backdropPath": "/4Pf3jV52oCzGen4aWMl897v86wl.jpg"
+    },
+    {
+        "name": "LEGO: Jurassic World - Legend of Isla Nublar",
+        "tmdbId": 93895,
+        "mediaType": "tv",
+        "backdropPath": "/1H6vMSeaQsUEVGJhIJlzsxLMbfU.jpg"
+    },
+    {
+        "name": "LEGO Jurassic World: The Indominus Escape",
+        "tmdbId": 419566,
+        "mediaType": "movie",
+        "backdropPath": "/w1W8Ukf6Kx8q2oVSwwG10kOvqCi.jpg"
+    },
+    {
+        "name": "LEGO Jurassic World: The Secret Exhibit",
+        "tmdbId": 99127,
+        "mediaType": "tv",
+        "backdropPath": "/iVQkmelFellDvxUobPUkAumhvSU.jpg"
+    },
+    {
+        "name": "Lego Jurassic World: Double Trouble",
+        "tmdbId": 1575968,
+        "mediaType": "movie",
+        "backdropPath": "/l05w9k1GFc8yTlwi9yMdcfmNvkF.jpg"
+    },
+    {
+        "name": "LEGO Scooby-Doo! Haunted Hollywood",
+        "tmdbId": 392536,
+        "mediaType": "movie",
+        "backdropPath": "/8YQCybX8it6ILjPvf2xMf2do9Ac.jpg"
+    },
+    {
+        "name": "LEGO Scooby-Doo! Blowout Beach Bash",
+        "tmdbId": 461054,
+        "mediaType": "movie",
+        "backdropPath": "/og52S5b7xPY2FIt59MoeFebnq91.jpg"
+    },
+    {
+        "name": "LEGO Bionicle: The Journey to One",
+        "tmdbId": 74153,
+        "mediaType": "tv",
+        "backdropPath": "/vYEYQTip0kX4jksZjtkNQ1YbjaG.jpg"
+    },
+    {
+        "name": "LEGO Hero Factory: Rise of the Rookies",
+        "tmdbId": 275287,
+        "mediaType": "movie",
+        "backdropPath": "/vPfHd22b9dihjQdv24yLWXO5EZQ.jpg"
+    },
+    {
+        "name": "LEGO Hero Factory",
+        "tmdbId": 35188,
+        "mediaType": "tv",
+        "backdropPath": "/mbHUOoKhvbxItmqMiHqjQzZ4gPx.jpg"
+    },
+    {
+        "name": "Lego Indiana Jones and the Raiders of the Lost Brick",
+        "tmdbId": 139282,
+        "mediaType": "movie",
+        "backdropPath": "/s2jAPxEMbuD7PUB4shxfzXbPfHW.jpg"
+    },
+    {
+        "name": "LEGO® Atlantis: The Movie",
+        "tmdbId": 76324,
+        "mediaType": "movie",
+        "backdropPath": "/3aNcLxTMxXoQ1DMTaAYLDP7yrOG.jpg"
+    },
+    {
+        "name": "Lego Disney Princess: The Castle Quest",
+        "tmdbId": 1153222,
+        "mediaType": "movie",
+        "backdropPath": "/2LKqmowgfY0w87LIcpgTmgL6qfd.jpg"
+    },
+    {
+        "name": "LEGO Frozen Northern Lights",
+        "tmdbId": 431562,
+        "mediaType": "movie",
+        "backdropPath": "/kqbX7oWncMiHxrNUJdNQuuMM0ib.jpg"
+    },
+    {
+        "name": "LEGO Jurassic Park: The Unofficial Retelling",
+        "tmdbId": 1171423,
+        "mediaType": "movie",
+        "backdropPath": "/9soME6xONQnG0gVo0qgNjSp3gJZ.jpg"
+    },
+    {
+        "name": "Piece by Piece",
+        "tmdbId": 1236419,
+        "mediaType": "movie",
+        "backdropPath": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg"
+    },
+    {
+        "name": "The LEGO® Story",
+        "tmdbId": 139014,
+        "mediaType": "movie",
+        "backdropPath": "/kzd0cHQfHr9I2VrVoEptbP6AdFl.jpg"
+    },
+    {
+        "name": "Mixels",
+        "tmdbId": 85421,
+        "mediaType": "tv",
+        "backdropPath": "/wdnImLIYaaivTlrpdyKYp2CyQbC.jpg"
+    },
+    {
+        "name": "LEGO Pixar: BrickToons",
+        "tmdbId": 262153,
+        "mediaType": "tv",
+        "backdropPath": "/rLo82L6uMCw5wSaI7sl61n2ECkF.jpg"
+    },
+    {
+        "name": "LEGO Elves: Secrets of Elvendale",
+        "tmdbId": 73673,
+        "mediaType": "tv",
+        "backdropPath": "/icggLDfQL2fi3eNS5hhHTaBseYB.jpg"
+    }
+]

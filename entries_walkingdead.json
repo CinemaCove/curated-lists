@@ -1,0 +1,44 @@
+[
+    {
+        "name": "The Walking Dead",
+        "tmdbId": 1402,
+        "mediaType": "tv",
+        "backdropPath": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg"
+    },
+    {
+        "name": "Fear the Walking Dead",
+        "tmdbId": 62286,
+        "mediaType": "tv",
+        "backdropPath": "/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg"
+    },
+    {
+        "name": "The Walking Dead: World Beyond",
+        "tmdbId": 94305,
+        "mediaType": "tv",
+        "backdropPath": "/vlxHVv236ehbde3qXc5R1ewAn4B.jpg"
+    },
+    {
+        "name": "Tales of the Walking Dead",
+        "tmdbId": 136248,
+        "mediaType": "tv",
+        "backdropPath": "/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg"
+    },
+    {
+        "name": "The Walking Dead: Dead City",
+        "tmdbId": 194583,
+        "mediaType": "tv",
+        "backdropPath": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg"
+    },
+    {
+        "name": "The Walking Dead: Daryl Dixon",
+        "tmdbId": 211684,
+        "mediaType": "tv",
+        "backdropPath": "/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg"
+    },
+    {
+        "name": "The Walking Dead: The Ones Who Live",
+        "tmdbId": 206586,
+        "mediaType": "tv",
+        "backdropPath": "/5PCKxpFcCTDFT3b1olJGPaAIM9e.jpg"
+    }
+]

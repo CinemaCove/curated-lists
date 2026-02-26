@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Night of the Living Dead",
+        "tmdbId": 10331,
+        "mediaType": "movie",
+        "backdropPath": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg"
+    },
+    {
+        "name": "Dawn of the Dead",
+        "tmdbId": 923,
+        "mediaType": "movie",
+        "backdropPath": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg"
+    },
+    {
+        "name": "Day of the Dead",
+        "tmdbId": 8408,
+        "mediaType": "movie",
+        "backdropPath": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg"
+    },
+    {
+        "name": "Land of the Dead",
+        "tmdbId": 11683,
+        "mediaType": "movie",
+        "backdropPath": "/teAcCOSN9wWDgePt4bRbzDK9oZF.jpg"
+    },
+    {
+        "name": "Diary of the Dead",
+        "tmdbId": 13025,
+        "mediaType": "movie",
+        "backdropPath": "/vjedSpn9vaN3Xxzr7MxW9RFGW50.jpg"
+    },
+    {
+        "name": "Survival of the Dead",
+        "tmdbId": 29426,
+        "mediaType": "movie",
+        "backdropPath": "/my7iRgEZyvw7GO09vUJ06fe5oO3.jpg"
+    }
+]

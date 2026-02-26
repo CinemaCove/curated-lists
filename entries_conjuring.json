@@ -1,0 +1,62 @@
+[
+    {
+        "name": "The Conjuring",
+        "tmdbId": 138843,
+        "mediaType": "movie",
+        "backdropPath": "/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg"
+    },
+    {
+        "name": "Annabelle",
+        "tmdbId": 250546,
+        "mediaType": "movie",
+        "backdropPath": "/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg"
+    },
+    {
+        "name": "The Conjuring 2",
+        "tmdbId": 259693,
+        "mediaType": "movie",
+        "backdropPath": "/mFCS5OuhPYT79KXu5jl7RqznPR1.jpg"
+    },
+    {
+        "name": "Annabelle: Creation",
+        "tmdbId": 396422,
+        "mediaType": "movie",
+        "backdropPath": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg"
+    },
+    {
+        "name": "The Nun",
+        "tmdbId": 439079,
+        "mediaType": "movie",
+        "backdropPath": "/cMnVmutb5mVgIBeiMOncAbwNjvG.jpg"
+    },
+    {
+        "name": "The Curse of La Llorona",
+        "tmdbId": 480414,
+        "mediaType": "movie",
+        "backdropPath": "/8MCCpfOe7hkG28cNmkXVrOWRIlK.jpg"
+    },
+    {
+        "name": "Annabelle Comes Home",
+        "tmdbId": 521029,
+        "mediaType": "movie",
+        "backdropPath": "/jB98SrdXAYSbiprjIwc7WfVCuCV.jpg"
+    },
+    {
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "tmdbId": 423108,
+        "mediaType": "movie",
+        "backdropPath": "/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg"
+    },
+    {
+        "name": "The Nun II",
+        "tmdbId": 968051,
+        "mediaType": "movie",
+        "backdropPath": "/aX3Od8NVLgM7pMYgRpTPkwSrbSC.jpg"
+    },
+    {
+        "name": "The Conjuring: Last Rites",
+        "tmdbId": 1038392,
+        "mediaType": "movie",
+        "backdropPath": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdbId": 22,
+        "mediaType": "movie",
+        "backdropPath": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg"
+    },
+    {
+        "name": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdbId": 58,
+        "mediaType": "movie",
+        "backdropPath": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg"
+    },
+    {
+        "name": "Pirates of the Caribbean: At World's End",
+        "tmdbId": 285,
+        "mediaType": "movie",
+        "backdropPath": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg"
+    },
+    {
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "tmdbId": 1865,
+        "mediaType": "movie",
+        "backdropPath": "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg"
+    },
+    {
+        "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "tmdbId": 166426,
+        "mediaType": "movie",
+        "backdropPath": "/7C921eWK06n12c1miRXnYoEu5Yv.jpg"
+    }
+]

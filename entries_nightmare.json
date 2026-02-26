@@ -1,0 +1,56 @@
+[
+    {
+        "name": "A Nightmare on Elm Street",
+        "tmdbId": 377,
+        "mediaType": "movie",
+        "backdropPath": "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+        "tmdbId": 10014,
+        "mediaType": "movie",
+        "backdropPath": "/8cxB1CiiODiWFayDPxLsAeviZvc.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street 3: Dream Warriors",
+        "tmdbId": 10072,
+        "mediaType": "movie",
+        "backdropPath": "/euXJlfeYSyrdkOoFQ9gtUG8OOhH.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street 4: The Dream Master",
+        "tmdbId": 10131,
+        "mediaType": "movie",
+        "backdropPath": "/pfrU9uHNtDxa6U93Fm9o4sjudGU.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street: The Dream Child",
+        "tmdbId": 10160,
+        "mediaType": "movie",
+        "backdropPath": "/mYsUWQoOYme8T6OELieOuHM08PH.jpg"
+    },
+    {
+        "name": "Freddy's Dead: The Final Nightmare",
+        "tmdbId": 11284,
+        "mediaType": "movie",
+        "backdropPath": "/j0ZugvhxSwvAIDpAKDdtPBjETMy.jpg"
+    },
+    {
+        "name": "New Nightmare",
+        "tmdbId": 11596,
+        "mediaType": "movie",
+        "backdropPath": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg"
+    },
+    {
+        "name": "Freddy vs. Jason",
+        "tmdbId": 6466,
+        "mediaType": "movie",
+        "backdropPath": "/hCAOQTMRop2fHjsl8n7yNwpkMJn.jpg"
+    },
+    {
+        "name": "A Nightmare on Elm Street",
+        "tmdbId": 23437,
+        "mediaType": "movie",
+        "backdropPath": "/8sZ2FZJMw971rpPZvkraVAFBM92.jpg"
+    }
+]
