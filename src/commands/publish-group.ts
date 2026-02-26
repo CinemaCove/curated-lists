@@ -60,6 +60,11 @@ export function publishGroupCommand(program: Command): void {
                 message: 'Group name:',
             });
 
+            const descriptionInput = await input({
+                message: 'Description (leave blank to omit):',
+                default: '',
+            });
+
             const icon = await input({
                 message: 'Material icon name:',
                 default: 'movie_filter',
@@ -83,6 +88,7 @@ export function publishGroupCommand(program: Command): void {
 
             const record = {
                 name,
+                ...(descriptionInput ? { description: descriptionInput } : {}),
                 icon,
                 ...(imagePathInput ? { imagePath: imagePathInput } : {}),
                 order: Number(orderInput),

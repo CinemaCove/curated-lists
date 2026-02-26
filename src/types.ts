@@ -29,6 +29,7 @@ export interface CuratedGroupList {
 
 export interface CuratedGroup {
     name: string;
+    description?: string;
     icon: string;
     imagePath?: string;
     order: number;
